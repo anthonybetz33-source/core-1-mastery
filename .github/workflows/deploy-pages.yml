@@ -14,12 +14,13 @@ concurrency:
   group: pages
   cancel-in-progress: true
 
+defaults:
+  run:
+    working-directory: Core_1_Mastery_10-10_FINAL_FIXED
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: Core_1_Mastery_10-10_FINAL_FIXED
     steps:
       - name: Checkout
         uses: actions/checkout@v4
