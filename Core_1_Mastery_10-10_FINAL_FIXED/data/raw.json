@@ -1,0 +1,3642 @@
+{
+  "SVGs": {
+    "atx24": "<svg viewBox=\"0 0 240 90\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"atxBody\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#5a6a8a\"/><stop offset=\"40%\" stop-color=\"#2c3a52\"/><stop offset=\"100%\" stop-color=\"#1a2438\"/></linearGradient>\n    <linearGradient id=\"atxPin\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#f5f0e6\"/><stop offset=\"100%\" stop-color=\"#c4b8a0\"/></linearGradient>\n    <filter id=\"atxSh\"><feDropShadow dx=\"0\" dy=\"1\" stdDeviation=\"1.2\" flood-opacity=\".4\"/></filter>\n  </defs>\n  <rect x=\"12\" y=\"22\" width=\"216\" height=\"52\" rx=\"6\" fill=\"url(#atxBody)\" stroke=\"#7fa9bf\" stroke-width=\"2\" filter=\"url(#atxSh)\"/>\n  <rect x=\"18\" y=\"28\" width=\"204\" height=\"40\" rx=\"3\" fill=\"#0d1520\"/>\n  <rect x=\"20\" y=\"30\" width=\"200\" height=\"14\" rx=\"1\" fill=\"#152030\"/>\n  <rect x=\"20\" y=\"50\" width=\"200\" height=\"14\" rx=\"1\" fill=\"#152030\"/>\n  <rect x=\"24\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"24\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"40.5\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"40.5\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"57\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"57\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"73.5\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"73.5\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"90\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"90\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"106.5\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"106.5\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"123\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"123\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"139.5\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"139.5\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"156\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"156\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"172.5\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"172.5\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"189\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"189\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"205.5\" y=\"32\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"205.5\" y=\"52\" width=\"9\" height=\"10\" rx=\"1\" fill=\"url(#atxPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/>\n  <path d=\"M14 36 h4 M14 58 h4\" stroke=\"#7fa9bf\" stroke-width=\"2\" stroke-linecap=\"round\"/>\n</svg>",
+    "cpu8": "<svg viewBox=\"0 0 150 90\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"cpuBody\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#5a6a8a\"/><stop offset=\"100%\" stop-color=\"#1a2438\"/></linearGradient>\n    <linearGradient id=\"cpuPin\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#f5f0e6\"/><stop offset=\"100%\" stop-color=\"#c4b8a0\"/></linearGradient>\n  </defs>\n  <rect x=\"28\" y=\"22\" width=\"94\" height=\"50\" rx=\"5\" fill=\"url(#cpuBody)\" stroke=\"#7fa9bf\" stroke-width=\"2\"/>\n  <rect x=\"34\" y=\"28\" width=\"82\" height=\"38\" rx=\"2\" fill=\"#0d1520\"/>\n  <rect x=\"40\" y=\"32\" width=\"11\" height=\"11\" rx=\"1\" fill=\"url(#cpuPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"40\" y=\"50\" width=\"11\" height=\"11\" rx=\"1\" fill=\"url(#cpuPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"59\" y=\"32\" width=\"11\" height=\"11\" rx=\"1\" fill=\"url(#cpuPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"59\" y=\"50\" width=\"11\" height=\"11\" rx=\"1\" fill=\"url(#cpuPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"78\" y=\"32\" width=\"11\" height=\"11\" rx=\"1\" fill=\"url(#cpuPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"78\" y=\"50\" width=\"11\" height=\"11\" rx=\"1\" fill=\"url(#cpuPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"97\" y=\"32\" width=\"11\" height=\"11\" rx=\"1\" fill=\"url(#cpuPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/><rect x=\"97\" y=\"50\" width=\"11\" height=\"11\" rx=\"1\" fill=\"url(#cpuPin)\" stroke=\"#8a7a60\" stroke-width=\".4\"/>\n  <circle cx=\"36\" cy=\"30\" r=\"2\" fill=\"#39ff88\"/>\n</svg>",
+    "pcie8": "<svg viewBox=\"0 0 150 90\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"pcieBody\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#34434d\"/><stop offset=\"100%\" stop-color=\"#1d2830\"/></linearGradient>\n    <linearGradient id=\"pciePin\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#d8e1e6\"/><stop offset=\"100%\" stop-color=\"#718894\"/></linearGradient>\n  </defs>\n  <rect x=\"24\" y=\"22\" width=\"102\" height=\"50\" rx=\"5\" fill=\"url(#pcieBody)\" stroke=\"#7fa9bf\" stroke-width=\"2\"/>\n  <rect x=\"30\" y=\"28\" width=\"90\" height=\"38\" rx=\"2\" fill=\"#1a0a14\"/>\n  <rect x=\"36\" y=\"32\" width=\"12\" height=\"11\" rx=\"1\" fill=\"url(#pciePin)\"/><rect x=\"36\" y=\"50\" width=\"12\" height=\"11\" rx=\"1\" fill=\"url(#pciePin)\"/><rect x=\"57\" y=\"32\" width=\"12\" height=\"11\" rx=\"1\" fill=\"url(#pciePin)\"/><rect x=\"57\" y=\"50\" width=\"12\" height=\"11\" rx=\"1\" fill=\"url(#pciePin)\"/><rect x=\"78\" y=\"32\" width=\"12\" height=\"11\" rx=\"1\" fill=\"url(#pciePin)\"/><rect x=\"78\" y=\"50\" width=\"12\" height=\"11\" rx=\"1\" fill=\"url(#pciePin)\"/><rect x=\"99\" y=\"32\" width=\"12\" height=\"11\" rx=\"1\" fill=\"url(#pciePin)\"/><rect x=\"99\" y=\"50\" width=\"12\" height=\"11\" rx=\"1\" fill=\"url(#pciePin)\"/>\n  <path d=\"M26 30v34\" stroke=\"#ffe566\" stroke-width=\"2\"/>\n</svg>",
+    "sataPower": "<svg viewBox=\"0 0 200 80\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"spBody\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#4a5a75\"/><stop offset=\"100%\" stop-color=\"#1a2438\"/></linearGradient>\n  </defs>\n  <rect x=\"10\" y=\"22\" width=\"180\" height=\"38\" rx=\"4\" fill=\"url(#spBody)\" stroke=\"#7fa9bf\" stroke-width=\"2\"/>\n  <rect x=\"16\" y=\"28\" width=\"16\" height=\"26\" rx=\"1\" fill=\"#7f98a8\"/><rect x=\"34\" y=\"28\" width=\"16\" height=\"26\" rx=\"1\" fill=\"#7f98a8\"/>\n  <rect x=\"54\" y=\"28\" width=\"16\" height=\"26\" rx=\"1\" fill=\"#ffe566\"/><rect x=\"72\" y=\"28\" width=\"16\" height=\"26\" rx=\"1\" fill=\"#ffe566\"/>\n  <rect x=\"92\" y=\"28\" width=\"16\" height=\"26\" rx=\"1\" fill=\"#39ff88\"/><rect x=\"110\" y=\"28\" width=\"16\" height=\"26\" rx=\"1\" fill=\"#39ff88\"/>\n  <rect x=\"130\" y=\"28\" width=\"16\" height=\"26\" rx=\"1\" fill=\"#7fa9bf\"/><rect x=\"148\" y=\"28\" width=\"16\" height=\"26\" rx=\"1\" fill=\"#7fa9bf\"/>\n  <rect x=\"168\" y=\"28\" width=\"14\" height=\"26\" rx=\"1\" fill=\"#8b9eaa\"/>\n</svg>",
+    "sataData": "<svg viewBox=\"0 0 130 70\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"sdBody\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#4a5a75\"/><stop offset=\"100%\" stop-color=\"#1a2438\"/></linearGradient>\n  </defs>\n  <path d=\"M18 18 h78 a6 6 0 0 1 6 6 v22 a6 6 0 0 1 -6 6 h-78 a6 6 0 0 1 -6 -6 v-22 a6 6 0 0 1 6 -6 z\" fill=\"url(#sdBody)\" stroke=\"#7fa9bf\" stroke-width=\"2\"/>\n  <rect x=\"22\" y=\"24\" width=\"70\" height=\"26\" rx=\"2\" fill=\"#0d1520\"/>\n  <rect x=\"26\" y=\"28\" width=\"6\" height=\"18\" rx=\".8\" fill=\"#e8e0d0\"/><rect x=\"35.5\" y=\"28\" width=\"6\" height=\"18\" rx=\".8\" fill=\"#e8e0d0\"/><rect x=\"45\" y=\"28\" width=\"6\" height=\"18\" rx=\".8\" fill=\"#e8e0d0\"/><rect x=\"54.5\" y=\"28\" width=\"6\" height=\"18\" rx=\".8\" fill=\"#e8e0d0\"/><rect x=\"64\" y=\"28\" width=\"6\" height=\"18\" rx=\".8\" fill=\"#e8e0d0\"/><rect x=\"73.5\" y=\"28\" width=\"6\" height=\"18\" rx=\".8\" fill=\"#e8e0d0\"/><rect x=\"83\" y=\"28\" width=\"6\" height=\"18\" rx=\".8\" fill=\"#e8e0d0\"/>\n  <path d=\"M16 28 v18\" stroke=\"#7fa9bf\" stroke-width=\"2\"/>\n</svg>",
+    "rj45": "<svg viewBox=\"0 0 100 110\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"rjBody\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#5a6a8a\"/><stop offset=\"100%\" stop-color=\"#1e2a40\"/></linearGradient>\n  </defs>\n  <rect x=\"18\" y=\"10\" width=\"64\" height=\"80\" rx=\"6\" fill=\"url(#rjBody)\" stroke=\"#7fa9bf\" stroke-width=\"2\"/>\n  <rect x=\"26\" y=\"20\" width=\"48\" height=\"48\" rx=\"3\" fill=\"#0a1220\"/>\n  <rect x=\"30\" y=\"26\" width=\"4\" height=\"28\" rx=\".5\" fill=\"#e8e0d0\"/><rect x=\"35.5\" y=\"26\" width=\"4\" height=\"28\" rx=\".5\" fill=\"#e8e0d0\"/><rect x=\"41\" y=\"26\" width=\"4\" height=\"28\" rx=\".5\" fill=\"#e8e0d0\"/><rect x=\"46.5\" y=\"26\" width=\"4\" height=\"28\" rx=\".5\" fill=\"#e8e0d0\"/><rect x=\"52\" y=\"26\" width=\"4\" height=\"28\" rx=\".5\" fill=\"#e8e0d0\"/><rect x=\"57.5\" y=\"26\" width=\"4\" height=\"28\" rx=\".5\" fill=\"#e8e0d0\"/><rect x=\"63\" y=\"26\" width=\"4\" height=\"28\" rx=\".5\" fill=\"#e8e0d0\"/><rect x=\"68.5\" y=\"26\" width=\"4\" height=\"28\" rx=\".5\" fill=\"#e8e0d0\"/>\n  <rect x=\"34\" y=\"72\" width=\"32\" height=\"12\" rx=\"2\" fill=\"#2a3a50\"/>\n  <path d=\"M42 84 h16\" stroke=\"#39ff88\" stroke-width=\"2\"/>\n</svg>",
+    "hdmi": "<svg viewBox=\"0 0 140 75\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"hdmiBody\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#34434d\"/><stop offset=\"100%\" stop-color=\"#1d2830\"/></linearGradient>\n  </defs>\n  <path d=\"M14 20 h112 a4 4 0 0 1 4 4 v28 a4 4 0 0 1 -4 4 h-112 a4 4 0 0 1 -4 -4 v-28 a4 4 0 0 1 4 -4 z\" fill=\"url(#hdmiBody)\" stroke=\"#7fa9bf\" stroke-width=\"2\"/>\n  <rect x=\"20\" y=\"26\" width=\"100\" height=\"24\" rx=\"2\" fill=\"#1a0a14\"/>\n  <rect x=\"24\" y=\"30\" width=\"6\" height=\"16\" rx=\".6\" fill=\"#d8e1e6\"/><rect x=\"33.5\" y=\"30\" width=\"6\" height=\"16\" rx=\".6\" fill=\"#d8e1e6\"/><rect x=\"43\" y=\"30\" width=\"6\" height=\"16\" rx=\".6\" fill=\"#d8e1e6\"/><rect x=\"52.5\" y=\"30\" width=\"6\" height=\"16\" rx=\".6\" fill=\"#d8e1e6\"/><rect x=\"62\" y=\"30\" width=\"6\" height=\"16\" rx=\".6\" fill=\"#d8e1e6\"/><rect x=\"71.5\" y=\"30\" width=\"6\" height=\"16\" rx=\".6\" fill=\"#d8e1e6\"/><rect x=\"81\" y=\"30\" width=\"6\" height=\"16\" rx=\".6\" fill=\"#d8e1e6\"/><rect x=\"90.5\" y=\"30\" width=\"6\" height=\"16\" rx=\".6\" fill=\"#d8e1e6\"/><rect x=\"100\" y=\"30\" width=\"6\" height=\"16\" rx=\".6\" fill=\"#d8e1e6\"/><rect x=\"109.5\" y=\"30\" width=\"6\" height=\"16\" rx=\".6\" fill=\"#d8e1e6\"/>\n</svg>",
+    "displayport": "<svg viewBox=\"0 0 140 75\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"dpBody\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#3d5563\"/><stop offset=\"100%\" stop-color=\"#1f2b34\"/></linearGradient>\n  </defs>\n  <path d=\"M14 18 L95 18 L122 32 L122 54 L14 54 Z\" fill=\"url(#dpBody)\" stroke=\"#8b9eaa\" stroke-width=\"2\"/>\n  <path d=\"M22 26 L92 26 L110 36 L110 46 L22 46 Z\" fill=\"#18242c\"/>\n  <rect x=\"28\" y=\"30\" width=\"6\" height=\"14\" rx=\".5\" fill=\"#dbe4e8\"/><rect x=\"37\" y=\"30\" width=\"6\" height=\"14\" rx=\".5\" fill=\"#dbe4e8\"/><rect x=\"46\" y=\"30\" width=\"6\" height=\"14\" rx=\".5\" fill=\"#dbe4e8\"/><rect x=\"55\" y=\"30\" width=\"6\" height=\"14\" rx=\".5\" fill=\"#dbe4e8\"/><rect x=\"64\" y=\"30\" width=\"6\" height=\"14\" rx=\".5\" fill=\"#dbe4e8\"/><rect x=\"73\" y=\"30\" width=\"6\" height=\"14\" rx=\".5\" fill=\"#dbe4e8\"/><rect x=\"82\" y=\"30\" width=\"6\" height=\"14\" rx=\".5\" fill=\"#dbe4e8\"/><rect x=\"91\" y=\"30\" width=\"6\" height=\"14\" rx=\".5\" fill=\"#dbe4e8\"/>\n  <circle cx=\"116\" cy=\"40\" r=\"3\" fill=\"#39ff88\"/>\n</svg>",
+    "vga": "<svg viewBox=\"0 0 130 90\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"vgaBody\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#6a5a30\"/><stop offset=\"100%\" stop-color=\"#3a3018\"/></linearGradient>\n  </defs>\n  <rect x=\"18\" y=\"14\" width=\"94\" height=\"52\" rx=\"5\" fill=\"url(#vgaBody)\" stroke=\"#ffe566\" stroke-width=\"2\"/>\n  <rect x=\"28\" y=\"24\" width=\"74\" height=\"32\" rx=\"3\" fill=\"#1c1608\"/>\n  <circle cx=\"36\" cy=\"32\" r=\"4\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/><circle cx=\"50\" cy=\"32\" r=\"4\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/><circle cx=\"64\" cy=\"32\" r=\"4\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/><circle cx=\"78\" cy=\"32\" r=\"4\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/><circle cx=\"43\" cy=\"44\" r=\"4\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/><circle cx=\"57\" cy=\"44\" r=\"4\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/><circle cx=\"71\" cy=\"44\" r=\"4\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/><circle cx=\"88\" cy=\"44\" r=\"4\" fill=\"#fef08a\" stroke=\"#ca8a04\" stroke-width=\"1\"/>\n  <path d=\"M30 66 h70\" stroke=\"#ffe566\" stroke-width=\"3\" stroke-linecap=\"round\"/>\n</svg>",
+    "usbc": "<svg viewBox=\"0 0 130 70\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"ucBody\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#5a6a8a\"/><stop offset=\"100%\" stop-color=\"#1a2438\"/></linearGradient>\n  </defs>\n  <rect x=\"22\" y=\"16\" width=\"86\" height=\"32\" rx=\"16\" fill=\"url(#ucBody)\" stroke=\"#7fa9bf\" stroke-width=\"2\"/>\n  <rect x=\"34\" y=\"24\" width=\"62\" height=\"16\" rx=\"8\" fill=\"#0d1520\"/>\n  <rect x=\"44\" y=\"28\" width=\"42\" height=\"8\" rx=\"4\" fill=\"#3a4a60\"/>\n  <circle cx=\"40\" cy=\"32\" r=\"2\" fill=\"#39ff88\"/><circle cx=\"90\" cy=\"32\" r=\"2\" fill=\"#39ff88\"/>\n</svg>",
+    "lga1700": "<svg viewBox=\"0 0 110 110\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs><linearGradient id=\"g11\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#3d4f6f\"/><stop offset=\"100%\" stop-color=\"#1e293b\"/></linearGradient></defs>\n  <rect x=\"12\" y=\"10\" width=\"86\" height=\"86\" rx=\"6\" fill=\"url(#g11)\" stroke=\"#22d3ee\" stroke-width=\"2\"/>\n  <rect x=\"24\" y=\"22\" width=\"62\" height=\"62\" rx=\"3\" fill=\"#0f172a\" stroke=\"#475569\" stroke-width=\"1\"/>\n  <text x=\"55\" y=\"52\" text-anchor=\"middle\" fill=\"#22d3ee\" font-size=\"14\" font-family=\"system-ui\" font-weight=\"700\">LGA</text>\n  <text x=\"55\" y=\"68\" text-anchor=\"middle\" fill=\"#94a3b8\" font-size=\"13\" font-family=\"system-ui\" font-weight=\"600\">1700</text>\n  <text x=\"55\" y=\"106\" text-anchor=\"middle\" fill=\"#22d3ee\" font-size=\"10\" font-family=\"system-ui\" font-weight=\"600\">Intel Socket</text>\n</svg>",
+    "am5": "<svg viewBox=\"0 0 110 110\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs><linearGradient id=\"g12\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#34434d\"/><stop offset=\"100%\" stop-color=\"#202c34\"/></linearGradient></defs>\n  <rect x=\"12\" y=\"10\" width=\"86\" height=\"86\" rx=\"6\" fill=\"url(#g12)\" stroke=\"#8299aa\" stroke-width=\"2\"/>\n  <rect x=\"24\" y=\"22\" width=\"62\" height=\"62\" rx=\"3\" fill=\"#1a0a14\" stroke=\"#314653\" stroke-width=\"1\"/>\n  <text x=\"55\" y=\"58\" text-anchor=\"middle\" fill=\"#8299aa\" font-size=\"18\" font-family=\"system-ui\" font-weight=\"700\">AM5</text>\n  <text x=\"55\" y=\"106\" text-anchor=\"middle\" fill=\"#8299aa\" font-size=\"10\" font-family=\"system-ui\" font-weight=\"600\">AMD Socket</text>\n</svg>",
+    "m2": "<svg viewBox=\"0 0 180 70\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"m2Body\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"0\"><stop offset=\"0%\" stop-color=\"#14532d\"/><stop offset=\"100%\" stop-color=\"#052e16\"/></linearGradient>\n  </defs>\n  <rect x=\"8\" y=\"18\" width=\"164\" height=\"30\" rx=\"3\" fill=\"url(#m2Body)\" stroke=\"#39ff88\" stroke-width=\"2\"/>\n  <rect x=\"14\" y=\"23\" width=\"12\" height=\"20\" rx=\"1\" fill=\"#86efac\"/>\n  <rect x=\"32\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/><rect x=\"43\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/><rect x=\"54\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/><rect x=\"65\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/><rect x=\"76\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/><rect x=\"87\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/><rect x=\"98\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/><rect x=\"109\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/><rect x=\"120\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/><rect x=\"131\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/><rect x=\"142\" y=\"24\" width=\"6\" height=\"18\" rx=\".5\" fill=\"#bbf7d0\"/>\n  <rect x=\"154\" y=\"22\" width=\"12\" height=\"22\" rx=\"2\" fill=\"#39ff88\"/>\n  <path d=\"M8 28 h6\" stroke=\"#052e16\" stroke-width=\"2\"/>\n</svg>",
+    "toner": "<svg viewBox=\"0 0 120 90\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <rect x=\"12\" y=\"22\" width=\"36\" height=\"50\" rx=\"6\" fill=\"#1e293b\" stroke=\"#5eead4\" stroke-width=\"2\"/>\n  <circle cx=\"30\" cy=\"40\" r=\"8\" fill=\"#8299aa\"/>\n  <rect x=\"22\" y=\"54\" width=\"16\" height=\"4\" rx=\"1\" fill=\"#64748b\"/>\n  <rect x=\"58\" y=\"28\" width=\"28\" height=\"40\" rx=\"6\" fill=\"#1e293b\" stroke=\"#8b9eaa\" stroke-width=\"2\"/>\n  <path d=\"M72 38 q10 8 0 16\" stroke=\"#5eead4\" stroke-width=\"2\" fill=\"none\"/>\n  <path d=\"M72 34 q16 12 0 24\" stroke=\"#5eead4\" stroke-width=\"1.5\" fill=\"none\" opacity=\".6\"/>\n  <line x1=\"48\" y1=\"48\" x2=\"58\" y2=\"48\" stroke=\"#94a3b8\" stroke-width=\"2\"/>\n</svg>",
+    "cableTester": "<svg viewBox=\"0 0 130 80\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <rect x=\"15\" y=\"18\" width=\"100\" height=\"48\" rx=\"8\" fill=\"#1e293b\" stroke=\"#5eead4\" stroke-width=\"2\"/>\n  <rect x=\"28\" y=\"28\" width=\"40\" height=\"16\" rx=\"3\" fill=\"#0f172a\" stroke=\"#4ade80\" stroke-width=\"1.5\"/>\n  <text x=\"48\" y=\"40\" text-anchor=\"middle\" fill=\"#4ade80\" font-size=\"9\" font-family=\"system-ui\" font-weight=\"700\">PASS</text>\n  <circle cx=\"80\" cy=\"36\" r=\"3.5\" fill=\"#4ade80\"/><circle cx=\"90\" cy=\"36\" r=\"3.5\" fill=\"#4ade80\"/>\n  <circle cx=\"100\" cy=\"36\" r=\"3.5\" fill=\"#22d3ee\"/>\n  <circle cx=\"80\" cy=\"48\" r=\"3.5\" fill=\"#64748b\"/><circle cx=\"90\" cy=\"48\" r=\"3.5\" fill=\"#64748b\"/>\n  <circle cx=\"100\" cy=\"48\" r=\"3.5\" fill=\"#64748b\"/>\n</svg>",
+    "punchdown": "<svg viewBox=\"0 0 100 120\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <rect x=\"40\" y=\"10\" width=\"20\" height=\"55\" rx=\"4\" fill=\"#64748b\" stroke=\"#5eead4\" stroke-width=\"1.5\"/>\n  <rect x=\"36\" y=\"62\" width=\"28\" height=\"14\" rx=\"3\" fill=\"#1e293b\" stroke=\"#8b9eaa\" stroke-width=\"1.5\"/>\n  <path d=\"M42 80 L42 100 L50 110 L58 100 L58 80\" fill=\"none\" stroke=\"#5eead4\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/>\n  <line x1=\"45\" y1=\"95\" x2=\"55\" y2=\"95\" stroke=\"#fbbf24\" stroke-width=\"2\"/>\n</svg>",
+    "loopback": "<svg viewBox=\"0 0 100 100\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <rect x=\"28\" y=\"28\" width=\"44\" height=\"36\" rx=\"6\" fill=\"#1e293b\" stroke=\"#5eead4\" stroke-width=\"2\"/>\n  <rect x=\"36\" y=\"38\" width=\"28\" height=\"10\" rx=\"2\" fill=\"#334155\"/>\n  <path d=\"M40 70 Q50 85 60 70\" stroke=\"#5eead4\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\"/>\n  <circle cx=\"40\" cy=\"70\" r=\"2.5\" fill=\"#5eead4\"/><circle cx=\"60\" cy=\"70\" r=\"2.5\" fill=\"#5eead4\"/>\n</svg>",
+    "wifiAnalyzer": "<svg viewBox=\"0 0 120 90\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <rect x=\"18\" y=\"16\" width=\"84\" height=\"58\" rx=\"8\" fill=\"#1e293b\" stroke=\"#8b9eaa\" stroke-width=\"2\"/>\n  <path d=\"M40 55 Q60 30 80 55\" stroke=\"#5eead4\" stroke-width=\"2.5\" fill=\"none\"/>\n  <path d=\"M48 55 Q60 40 72 55\" stroke=\"#5eead4\" stroke-width=\"2\" fill=\"none\"/>\n  <circle cx=\"60\" cy=\"55\" r=\"3\" fill=\"#5eead4\"/>\n  <rect x=\"30\" y=\"62\" width=\"12\" height=\"4\" rx=\"1\" fill=\"#4ade80\"/>\n  <rect x=\"46\" y=\"58\" width=\"12\" height=\"8\" rx=\"1\" fill=\"#4ade80\"/>\n  <rect x=\"62\" y=\"54\" width=\"12\" height=\"12\" rx=\"1\" fill=\"#fbbf24\"/>\n  <rect x=\"78\" y=\"50\" width=\"12\" height=\"16\" rx=\"1\" fill=\"#8299aa\"/>\n</svg>",
+    "multimeter": "<svg viewBox=\"0 0 100 120\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <rect x=\"22\" y=\"12\" width=\"56\" height=\"90\" rx=\"8\" fill=\"#1e293b\" stroke=\"#5eead4\" stroke-width=\"2\"/>\n  <rect x=\"30\" y=\"22\" width=\"40\" height=\"22\" rx=\"3\" fill=\"#0f172a\" stroke=\"#4ade80\" stroke-width=\"1\"/>\n  <text x=\"50\" y=\"37\" text-anchor=\"middle\" fill=\"#4ade80\" font-size=\"11\" font-family=\"system-ui\" font-weight=\"700\">12.0V</text>\n  <circle cx=\"50\" cy=\"62\" r=\"12\" fill=\"#0f172a\" stroke=\"#94a3b8\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"62\" x2=\"50\" y2=\"54\" stroke=\"#8299aa\" stroke-width=\"2\" stroke-linecap=\"round\"/>\n  <circle cx=\"38\" cy=\"88\" r=\"4\" fill=\"#ef4444\"/><circle cx=\"50\" cy=\"88\" r=\"4\" fill=\"#000\"/><circle cx=\"62\" cy=\"88\" r=\"4\" fill=\"#3b82f6\"/>\n</svg>",
+    "crimper": "<svg viewBox=\"0 0 120 120\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <defs>\n    <linearGradient id=\"crH\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#8b9bb8\"/><stop offset=\"100%\" stop-color=\"#2d3748\"/></linearGradient>\n    <linearGradient id=\"crG\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\"><stop offset=\"0%\" stop-color=\"#5eead4\"/><stop offset=\"100%\" stop-color=\"#0f766e\"/></linearGradient>\n  </defs>\n  <path d=\"M40 68 Q30 92 24 110\" stroke=\"url(#crG)\" stroke-width=\"9\" stroke-linecap=\"round\" fill=\"none\"/>\n  <path d=\"M56 68 Q66 92 76 110\" stroke=\"url(#crG)\" stroke-width=\"9\" stroke-linecap=\"round\" fill=\"none\"/>\n  <circle cx=\"48\" cy=\"60\" r=\"8\" fill=\"#1a2332\" stroke=\"#5eead4\" stroke-width=\"2\"/>\n  <circle cx=\"48\" cy=\"60\" r=\"3\" fill=\"#5eead4\"/>\n  <path d=\"M28 56 L16 26 L28 22 L44 52 Z\" fill=\"url(#crH)\" stroke=\"#94a3b8\" stroke-width=\"1.2\"/>\n  <path d=\"M68 56 L80 26 L68 22 L52 52 Z\" fill=\"url(#crH)\" stroke=\"#94a3b8\" stroke-width=\"1.2\"/>\n  <rect x=\"22\" y=\"30\" width=\"14\" height=\"7\" rx=\"1\" fill=\"#0f172a\" stroke=\"#fbbf24\" stroke-width=\"1\"/>\n  <rect x=\"60\" y=\"30\" width=\"14\" height=\"7\" rx=\"1\" fill=\"#0f172a\" stroke=\"#fbbf24\" stroke-width=\"1\"/>\n</svg>",
+    "cableStripper": "<svg viewBox=\"0 0 120 90\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <path d=\"M30 55 L50 25 L70 25 L90 55\" fill=\"#64748b\" stroke=\"#5eead4\" stroke-width=\"1.5\"/>\n  <path d=\"M35 55 L55 70 L65 70 L85 55\" fill=\"#475569\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/>\n  <circle cx=\"60\" cy=\"55\" r=\"5\" fill=\"#1e293b\" stroke=\"#5eead4\" stroke-width=\"1.5\"/>\n  <path d=\"M48 40 Q60 48 72 40\" stroke=\"#fbbf24\" stroke-width=\"2\" fill=\"none\"/>\n</svg>",
+    "postCard": "<svg viewBox=\"0 0 120 80\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <rect x=\"14\" y=\"18\" width=\"92\" height=\"48\" rx=\"4\" fill=\"#1e293b\" stroke=\"#fbbf24\" stroke-width=\"2\"/>\n  <rect x=\"24\" y=\"28\" width=\"48\" height=\"20\" rx=\"2\" fill=\"#0f172a\" stroke=\"#4ade80\" stroke-width=\"1\"/>\n  <text x=\"48\" y=\"42\" text-anchor=\"middle\" fill=\"#4ade80\" font-size=\"12\" font-family=\"monospace\" font-weight=\"700\">00</text>\n  <rect x=\"80\" y=\"28\" width=\"16\" height=\"28\" rx=\"1\" fill=\"#334155\"/>\n  <rect x=\"82\" y=\"30\" width=\"3\" height=\"8\" fill=\"#5eead4\"/><rect x=\"87\" y=\"30\" width=\"3\" height=\"8\" fill=\"#5eead4\"/>\n  <rect x=\"92\" y=\"30\" width=\"3\" height=\"8\" fill=\"#5eead4\"/>\n</svg>",
+    "networkTap": "<svg viewBox=\"0 0 120 80\" xmlns=\"http://www.w3.org/2000/svg\" overflow=\"visible\">\n  <rect x=\"20\" y=\"28\" width=\"80\" height=\"28\" rx=\"6\" fill=\"#1e293b\" stroke=\"#5eead4\" stroke-width=\"2\"/>\n  <circle cx=\"40\" cy=\"42\" r=\"5\" fill=\"#0f172a\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/>\n  <circle cx=\"60\" cy=\"42\" r=\"5\" fill=\"#0f172a\" stroke=\"#94a3b8\" stroke-width=\"1.5\"/>\n  <circle cx=\"80\" cy=\"42\" r=\"5\" fill=\"#0f172a\" stroke=\"#4ade80\" stroke-width=\"1.5\"/>\n  <path d=\"M20 42 H10 M100 42 H110\" stroke=\"#64748b\" stroke-width=\"2\"/>\n</svg>",
+    "raid0": "<svg viewBox=\"0 0 280 120\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"8\" y=\"20\" width=\"70\" height=\"80\" rx=\"4\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.5\"/>\n  <text x=\"43\" y=\"65\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"11\" font-family=\"sans-serif\">Disk 0</text>\n  <rect x=\"90\" y=\"20\" width=\"70\" height=\"80\" rx=\"4\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.5\"/>\n  <text x=\"125\" y=\"65\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"11\" font-family=\"sans-serif\">Disk 1</text>\n  <path d=\"M168 60 H200\" stroke=\"#7fa9bf\" stroke-width=\"1.5\" marker-end=\"url(#a)\"/>\n  <rect x=\"205\" y=\"35\" width=\"65\" height=\"50\" rx=\"4\" fill=\"#152018\" stroke=\"#6bcf9a\" stroke-width=\"1.5\"/>\n  <text x=\"237\" y=\"58\" text-anchor=\"middle\" fill=\"#6bcf9a\" font-size=\"10\" font-family=\"sans-serif\">Stripe</text>\n  <text x=\"237\" y=\"72\" text-anchor=\"middle\" fill=\"#8a9ba8\" font-size=\"9\" font-family=\"sans-serif\">no parity</text>\n  <text x=\"140\" y=\"14\" text-anchor=\"middle\" fill=\"#8a9ba8\" font-size=\"10\" font-family=\"sans-serif\">RAID 0 — striping only</text>\n</svg>",
+    "raid1": "<svg viewBox=\"0 0 280 120\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"20\" y=\"25\" width=\"80\" height=\"70\" rx=\"4\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.5\"/>\n  <text x=\"60\" y=\"62\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"11\" font-family=\"sans-serif\">Disk 0</text>\n  <text x=\"60\" y=\"78\" text-anchor=\"middle\" fill=\"#6bcf9a\" font-size=\"9\" font-family=\"sans-serif\">Data A</text>\n  <rect x=\"160\" y=\"25\" width=\"80\" height=\"70\" rx=\"4\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.5\"/>\n  <text x=\"200\" y=\"62\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"11\" font-family=\"sans-serif\">Disk 1</text>\n  <text x=\"200\" y=\"78\" text-anchor=\"middle\" fill=\"#6bcf9a\" font-size=\"9\" font-family=\"sans-serif\">Data A</text>\n  <path d=\"M105 60 H150\" stroke=\"#7fa9bf\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/>\n  <text x=\"140\" y=\"14\" text-anchor=\"middle\" fill=\"#8a9ba8\" font-size=\"10\" font-family=\"sans-serif\">RAID 1 — mirror (100% redundant)</text>\n</svg>",
+    "raid5": "<svg viewBox=\"0 0 320 130\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"10\" y=\"28\" width=\"60\" height=\"72\" rx=\"3\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.2\"/>\n  <text x=\"40\" y=\"55\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"9\">D0</text>\n  <text x=\"40\" y=\"70\" text-anchor=\"middle\" fill=\"#6bcf9a\" font-size=\"8\">A</text>\n  <text x=\"40\" y=\"84\" text-anchor=\"middle\" fill=\"#d4b06a\" font-size=\"8\">P</text>\n  <rect x=\"85\" y=\"28\" width=\"60\" height=\"72\" rx=\"3\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.2\"/>\n  <text x=\"115\" y=\"55\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"9\">D1</text>\n  <text x=\"115\" y=\"70\" text-anchor=\"middle\" fill=\"#6bcf9a\" font-size=\"8\">B</text>\n  <text x=\"115\" y=\"84\" text-anchor=\"middle\" fill=\"#d4b06a\" font-size=\"8\">P</text>\n  <rect x=\"160\" y=\"28\" width=\"60\" height=\"72\" rx=\"3\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.2\"/>\n  <text x=\"190\" y=\"55\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"9\">D2</text>\n  <text x=\"190\" y=\"70\" text-anchor=\"middle\" fill=\"#6bcf9a\" font-size=\"8\">C</text>\n  <text x=\"190\" y=\"84\" text-anchor=\"middle\" fill=\"#d4b06a\" font-size=\"8\">P</text>\n  <text x=\"160\" y=\"14\" text-anchor=\"middle\" fill=\"#8a9ba8\" font-size=\"10\" font-family=\"sans-serif\">RAID 5 — stripe + distributed parity (min 3 disks)</text>\n  <text x=\"160\" y=\"120\" text-anchor=\"middle\" fill=\"#5a6b78\" font-size=\"9\">Survives 1 disk failure · capacity = n-1</text>\n</svg>",
+    "raid10": "<svg viewBox=\"0 0 300 130\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"15\" y=\"30\" width=\"55\" height=\"50\" rx=\"3\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.2\"/>\n  <text x=\"42\" y=\"58\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"9\">D0</text>\n  <rect x=\"80\" y=\"30\" width=\"55\" height=\"50\" rx=\"3\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.2\"/>\n  <text x=\"107\" y=\"58\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"9\">D1</text>\n  <text x=\"75\" y=\"22\" text-anchor=\"middle\" fill=\"#6bcf9a\" font-size=\"8\">Mirror</text>\n  <rect x=\"165\" y=\"30\" width=\"55\" height=\"50\" rx=\"3\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.2\"/>\n  <text x=\"192\" y=\"58\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"9\">D2</text>\n  <rect x=\"230\" y=\"30\" width=\"55\" height=\"50\" rx=\"3\" fill=\"#1a222a\" stroke=\"#7fa9bf\" stroke-width=\"1.2\"/>\n  <text x=\"257\" y=\"58\" text-anchor=\"middle\" fill=\"#a8c0ce\" font-size=\"9\">D3</text>\n  <text x=\"225\" y=\"22\" text-anchor=\"middle\" fill=\"#6bcf9a\" font-size=\"8\">Mirror</text>\n  <path d=\"M140 55 H155\" stroke=\"#7fa9bf\" stroke-width=\"1.2\"/>\n  <text x=\"150\" y=\"95\" text-anchor=\"middle\" fill=\"#8a9ba8\" font-size=\"9\">RAID 10 = stripe of mirrors</text>\n  <text x=\"150\" y=\"112\" text-anchor=\"middle\" fill=\"#5a6b78\" font-size=\"8\">Min 4 disks · excellent performance + redundancy</text>\n</svg>"
+  },
+  "specsCards": [
+    {
+      "cat": "power",
+      "title": "24-pin ATX",
+      "detail": "• Main motherboard power connector\n• Original ATX was 20-pin; modern is 24\n• Carries +3.3V, +5V, +12V, standby\n• Never force a mismatched plug"
+    },
+    {
+      "cat": "power",
+      "title": "CPU 8-pin (EPS)",
+      "detail": "• Dedicated CPU power from the PSU\n• 4-pin is older / lower TDP\n• High-end boards may need dual 8-pin\n• Undersized CPU power → instability"
+    },
+    {
+      "cat": "power",
+      "title": "PCIe power",
+      "detail": "• 6-pin ≈ 75W extra\n• 8-pin ≈ 150W extra\n• Slot itself up to ~75W\n• 12VHPWR on newer GPUs up to ~600W"
+    },
+    {
+      "cat": "power",
+      "title": "PSU sizing rule",
+      "detail": "• Add GPU TDP + CPU TDP + ~50–100W\n• Then add 20–30% headroom\n• Example: 320W GPU + 125W CPU → 650W+\n• Prefer quality 80 Plus units"
+    },
+    {
+      "cat": "power",
+      "title": "80 Plus levels",
+      "detail": "• Efficiency at 20% / 50% / 100% load\n• Bronze < Silver < Gold < Platinum < Titanium\n• Gold is a solid everyday target\n• Higher tier ≠ always more watts"
+    },
+    {
+      "cat": "power",
+      "title": "SATA power",
+      "detail": "• 15-pin drive power\n• +3.3V orange (often unused)\n• +5V red · +12V yellow\n• Separate from 7-pin data"
+    },
+    {
+      "cat": "power",
+      "title": "Rail voltages",
+      "detail": "• +12V feeds CPU and GPU (high current)\n• Yellow = +12V · Red = +5V\n• Orange = +3.3V · Black = ground\n• Multimeter across yellow-black ≈ 12V"
+    },
+    {
+      "cat": "cable",
+      "title": "Cat5e / Cat6 / Cat6a",
+      "detail": "• Cat5e: 1 Gbps to 100 m\n• Cat6: 10 Gbps ~55 m typical\n• Cat6a: 10 Gbps to 100 m\n• Prefer solid copper; avoid CCA for PoE"
+    },
+    {
+      "cat": "cable",
+      "title": "Ethernet distance",
+      "detail": "• Copper channel max 100 meters\n• Includes patch cords in that total\n• Beyond 100 m → fiber\n• Applies to standard BASE-T runs"
+    },
+    {
+      "cat": "cable",
+      "title": "Fiber types",
+      "detail": "• Multimode: shorter campus runs\n• Cheaper optics, LED/VCSEL sources\n• Single-mode: long distance / ISP\n• Kilometers-scale with lasers"
+    },
+    {
+      "cat": "cable",
+      "title": "T568A vs T568B",
+      "detail": "• Both are valid pinouts\n• T568B common in the US\n• Same standard both ends = straight-through\n• A on one + B on other = crossover (rare now)"
+    },
+    {
+      "cat": "cable",
+      "title": "USB power/data",
+      "detail": "• USB 2.0: 480 Mbps, 5V/0.5A\n• USB 3.x: 5 Gbps+ and more current\n• USB-C may carry data + video + PD power\n• Not every USB-C cable supports everything"
+    },
+    {
+      "cat": "cable",
+      "title": "Plenum vs PVC",
+      "detail": "• Plenum (CMP): air-handling spaces\n• Low-smoke, fire-retardant jacket\n• Riser (CMR): between floors\n• Wrong jacket can fail inspection"
+    },
+    {
+      "cat": "wireless",
+      "title": "2.4 vs 5 vs 6 GHz",
+      "detail": "• 2.4 GHz: longest range, most interference\n• Clean 2.4 channels: 1, 6, 11\n• 5 GHz: more channels, less range\n• 6 GHz (Wi-Fi 6E): clean, newest clients"
+    },
+    {
+      "cat": "wireless",
+      "title": "802.11 generations",
+      "detail": "• n = Wi-Fi 4 · ac = Wi-Fi 5\n• ax = Wi-Fi 6 / 6E · be = Wi-Fi 7\n• Exam still expects a/b/g/n/ac/ax awareness\n• Know approximate capabilities"
+    },
+    {
+      "cat": "wireless",
+      "title": "WPA2 vs WPA3",
+      "detail": "• WPA2-Personal: AES-CCMP + PSK\n• WPA3-Personal: SAE, stronger offline resistance\n• Prefer WPA3; WPA2 for legacy only\n• Never use WEP"
+    },
+    {
+      "cat": "storage",
+      "title": "SATA vs NVMe",
+      "detail": "• SATA III cap ≈ 6 Gbps (~550 MB/s)\n• NVMe Gen3 x4 ≈ 3.5 GB/s\n• Gen4 x4 ≈ 7 GB/s\n• Same M.2 slot may be SATA or PCIe"
+    },
+    {
+      "cat": "storage",
+      "title": "M.2 sizes",
+      "detail": "• Named WWLL: 2242, 2260, 2280, 22110\n• 2280 is the common length\n• Keying: B-key, M-key, B+M\n• Must match the slot"
+    },
+    {
+      "cat": "storage",
+      "title": "RAID quick math",
+      "detail": "• RAID 0: capacity = sum, no safety\n• RAID 1: capacity = one disk\n• RAID 5: capacity = n−1, min 3 disks\n• RAID 10: mirror + stripe, min 4"
+    },
+    {
+      "cat": "storage",
+      "title": "RAM generations",
+      "detail": "• DDR4 ≠ DDR5 (keying + voltage)\n• Speeds are MT/s (e.g. DDR5-6000)\n• Dual-channel: matched pairs, correct slots\n• Usually slots 2 & 4 — check manual"
+    },
+    {
+      "cat": "ports",
+      "title": "Well-known ports",
+      "detail": "• 22 SSH · 23 Telnet · 25 SMTP\n• 53 DNS · 67/68 DHCP\n• 80 HTTP · 443 HTTPS\n• 445 SMB · 3389 RDP · 389 LDAP"
+    },
+    {
+      "cat": "ports",
+      "title": "TCP vs UDP choice",
+      "detail": "• TCP: web, SSH, RDP, email\n• UDP: VoIP, games, many DNS queries\n• TCP when you need reliability\n• UDP when latency matters most"
+    },
+    {
+      "cat": "ports",
+      "title": "DHCP process",
+      "detail": "• DORA: Discover → Offer → Request → Ack\n• Server UDP/67 · Client UDP/68\n• Failed DHCP → APIPA 169.254.x.x\n• Reservations bind MAC to IP"
+    },
+    {
+      "cat": "ports",
+      "title": "DNS records",
+      "detail": "• A = IPv4 address\n• AAAA = IPv6 address\n• MX = mail server · CNAME = alias\n• IP works, name fails → DNS"
+    }
+  ],
+  "toolsItems": [
+    {
+      "cat": "network",
+      "name": "Crimper",
+      "desc": "• Attaches RJ-45 / RJ-11 plugs\n• Essential for custom patch cables\n• Pair with a good stripper\n• Test after every crimp",
+      "svg": "crimper"
+    },
+    {
+      "cat": "network",
+      "name": "Cable Stripper",
+      "desc": "• Removes outer jacket only\n• Avoid nicking inner pairs\n• Prep step before crimp/punchdown\n• Different blades for cable types",
+      "svg": "cableStripper"
+    },
+    {
+      "cat": "network",
+      "name": "Toner Probe",
+      "desc": "• Traces cables through walls/bundles\n• Toner puts a signal on the wire\n• Probe finds the tone\n• Best for messy wiring closets",
+      "svg": "toner"
+    },
+    {
+      "cat": "network",
+      "name": "Cable Tester",
+      "desc": "• Verifies wire mapping\n• Finds opens and shorts\n• Some units measure length\n• Use before blaming the switch",
+      "svg": "cableTester"
+    },
+    {
+      "cat": "network",
+      "name": "Punchdown Tool",
+      "desc": "• Seats wires into IDC blocks\n• Patch panels and keystone jacks\n• 110 and 66 blocks common\n• Keep pairs untwisted only at the end",
+      "svg": "punchdown"
+    },
+    {
+      "cat": "network",
+      "name": "Loopback Plug",
+      "desc": "• Loops TX back to RX\n• Tests NIC or switch port\n• Handy when link light is dead\n• Simple hardware isolation tool",
+      "svg": "loopback"
+    },
+    {
+      "cat": "network",
+      "name": "Wi-Fi Analyzer",
+      "desc": "• Shows SSIDs and channels\n• Signal strength + overlap\n• Find cleaner channels\n• Great for 2.4 GHz interference",
+      "svg": "wifiAnalyzer"
+    },
+    {
+      "cat": "network",
+      "name": "Network Tap",
+      "desc": "• Copies traffic for monitoring\n• Does not interrupt the link\n• Used with analyzers/IDS\n• Passive or active designs",
+      "svg": "networkTap"
+    },
+    {
+      "cat": "hardware",
+      "name": "Multimeter",
+      "desc": "• Measures voltage and resistance\n• Continuity for fuses/cables\n• Check PSU rails (yellow ≈ 12V)\n• Basic electrical safety tool",
+      "svg": "multimeter"
+    },
+    {
+      "cat": "hardware",
+      "name": "POST Card",
+      "desc": "• Displays POST checkpoint codes\n• Helps when there is no video/beeps\n• PCIe, USB, or legacy ISA forms\n• Match code to the BIOS list",
+      "svg": "postCard"
+    }
+  ],
+  "visualItems": [
+    {
+      "cat": "power",
+      "name": "24-pin ATX",
+      "desc": "• Main motherboard power from the PSU\n• +3.3V · +5V · +12V · grounds\n• Seat until the latch clicks",
+      "svg": "atx24"
+    },
+    {
+      "cat": "power",
+      "name": "8-pin CPU / EPS",
+      "desc": "• Dedicated CPU power\n• Often 4+4 split\n• Required on modern boards",
+      "svg": "cpu8"
+    },
+    {
+      "cat": "power",
+      "name": "PCIe 8-pin",
+      "desc": "• GPU extra power ≈ 150W\n• Cards may need one or more\n• Match PSU cables to the card",
+      "svg": "pcie8"
+    },
+    {
+      "cat": "power",
+      "name": "SATA Power",
+      "desc": "• 15-pin drive power\n• Separate from the data cable\n• Color-coded voltage rails",
+      "svg": "sataPower"
+    },
+    {
+      "cat": "data",
+      "name": "SATA Data",
+      "desc": "• 7-pin data link\n• HDD · SATA SSD · optical\n• L-shaped keying",
+      "svg": "sataData"
+    },
+    {
+      "cat": "data",
+      "name": "RJ-45",
+      "desc": "• Ethernet connector\n• Eight conductors\n• T568A or T568B termination",
+      "svg": "rj45"
+    },
+    {
+      "cat": "data",
+      "name": "HDMI",
+      "desc": "• Digital video + audio\n• Monitors · TVs · GPUs\n• Not for networking",
+      "svg": "hdmi"
+    },
+    {
+      "cat": "data",
+      "name": "DisplayPort",
+      "desc": "• Digital video (PC common)\n• Angled corner shape\n• High-refresh friendly",
+      "svg": "displayport"
+    },
+    {
+      "cat": "data",
+      "name": "VGA",
+      "desc": "• Legacy analog video\n• Usually blue\n• Prefer HDMI/DP when possible",
+      "svg": "vga"
+    },
+    {
+      "cat": "data",
+      "name": "USB-C",
+      "desc": "• Reversible connector\n• Data ± video ± power\n• Depends on cable + device",
+      "svg": "usbc"
+    },
+    {
+      "cat": "socket",
+      "name": "LGA 1700",
+      "desc": "• Intel 12th–14th gen desktop\n• Pins in the board\n• Align the CPU triangle marker",
+      "svg": "lga1700"
+    },
+    {
+      "cat": "socket",
+      "name": "AM5",
+      "desc": "• AMD Ryzen 7000 / 9000\n• Pins on the CPU — protect them\n• Open the arm before seating",
+      "svg": "am5"
+    },
+    {
+      "cat": "storage",
+      "name": "M.2 NVMe",
+      "desc": "• Compact SSD (often 2280)\n• NVMe uses PCIe\n• Confirm slot keying + type",
+      "svg": "m2"
+    },
+    {
+      "cat": "storage",
+      "name": "RAID 0",
+      "desc": "Striping only. No redundancy. Capacity = sum of disks. One failure = total loss.",
+      "svg": "raid0"
+    },
+    {
+      "cat": "storage",
+      "name": "RAID 1",
+      "desc": "Mirroring. 100% redundant. Capacity = one disk. Survives one failure per pair.",
+      "svg": "raid1"
+    },
+    {
+      "cat": "storage",
+      "name": "RAID 5",
+      "desc": "Stripe + distributed parity. Min 3 disks. Capacity = n-1. Survives one failure.",
+      "svg": "raid5"
+    },
+    {
+      "cat": "storage",
+      "name": "RAID 10",
+      "desc": "Stripe of mirrors. Min 4 disks. High performance and redundancy.",
+      "svg": "raid10"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "24-pin ATX",
+      "back": "• Main motherboard power\n• Carries +3.3V, +5V, +12V, and grounds\n• Seat until the latch clicks"
+    },
+    {
+      "front": "8-pin CPU / EPS",
+      "back": "• Dedicated processor power from the PSU\n• Often split as 4+4\n• Missing this cable → many builds will not POST"
+    },
+    {
+      "front": "PCIe 6-pin vs 8-pin",
+      "back": "• 6-pin ≈ 75W extra to the GPU\n• 8-pin ≈ 150W extra\n• Slot can add up to ~75W more"
+    },
+    {
+      "front": "SATA Power (15-pin)",
+      "back": "• Powers SATA drives\n• Separate from the 7-pin data cable\n• Rails: +12V, +5V, +3.3V"
+    },
+    {
+      "front": "SATA Data (7-pin)",
+      "back": "• Data link for HDD / SATA SSD / optical\n• L-shaped keying\n• Keep runs tidy for airflow"
+    },
+    {
+      "front": "LGA 1700",
+      "back": "• Intel socket for 12th–14th gen Core\n• Lands on CPU, pins in the board\n• Do not bend socket pins"
+    },
+    {
+      "front": "AM5",
+      "back": "• AMD socket for Ryzen 7000 / 9000\n• Pins are on the CPU — protect them\n• Open retention arm before seating"
+    },
+    {
+      "front": "DDR4 vs DDR5",
+      "back": "• Different notch, voltage, signaling\n• Not interchangeable\n• Use matched pairs for dual-channel"
+    },
+    {
+      "front": "NVMe vs SATA SSD",
+      "back": "• NVMe uses PCIe (much faster)\n• SATA SSDs share ~6 Gbps ceiling\n• M.2 slots may be either — check the board"
+    },
+    {
+      "front": "RAID 0 / 1 / 5",
+      "back": "• RAID 0: stripe, no redundancy\n• RAID 1: mirror, capacity of one disk\n• RAID 5: stripe + parity, min 3 disks"
+    },
+    {
+      "front": "RJ-45",
+      "back": "• Eight-position Ethernet connector\n• Terminate with T568A or T568B\n• Match both ends for straight-through"
+    },
+    {
+      "front": "Port 22",
+      "back": "• SSH — encrypted remote shell\n• Also used for secure file transfer\n• Prefer over Telnet (23)"
+    },
+    {
+      "front": "Port 53",
+      "back": "• DNS — resolves names to IPs\n• Uses UDP and TCP\n• IPs work but names fail → suspect DNS"
+    },
+    {
+      "front": "Port 67 / 68",
+      "back": "• DHCP server (67) and client (68)\n• Automatic IP configuration\n• Failure often yields APIPA 169.254.x.x"
+    },
+    {
+      "front": "Port 80 / 443",
+      "back": "• HTTP (80) = unencrypted web\n• HTTPS (443) = TLS encrypted\n• Prefer 443 whenever possible"
+    },
+    {
+      "front": "Port 3389",
+      "back": "• RDP — Windows Remote Desktop\n• Expose only with strong auth\n• Prefer VPN in front when remote"
+    },
+    {
+      "front": "Port 445",
+      "back": "• SMB — Windows file/printer sharing\n• Sensitive on the public internet\n• Common on local LANs"
+    },
+    {
+      "front": "WPA3",
+      "back": "• Current preferred Wi-Fi security\n• Uses SAE instead of older PSK handshake\n• Stronger against offline attacks"
+    },
+    {
+      "front": "802.11ax (Wi-Fi 6)",
+      "back": "• Improved efficiency and capacity\n• Wi-Fi 6E adds 6 GHz\n• Know 2.4 vs 5 vs 6 GHz tradeoffs"
+    },
+    {
+      "front": "APIPA",
+      "back": "• 169.254.0.0/16 self-assigned range\n• Appears when DHCP does not respond\n• Means isolation or DHCP failure"
+    },
+    {
+      "front": "T568A / T568B",
+      "back": "• Two standard Ethernet pinouts\n• Same standard on both ends = straight-through\n• T568B is common in the US"
+    },
+    {
+      "front": "Plenum cable",
+      "back": "• CMP-rated jacket for air-handling spaces\n• Low-smoke materials\n• Required by many fire codes in plenums"
+    },
+    {
+      "front": "Type 1 hypervisor",
+      "back": "• Bare-metal virtualization\n• Examples: ESXi, Hyper-V Server\n• Runs on hardware without a host desktop OS"
+    },
+    {
+      "front": "Type 2 hypervisor",
+      "back": "• Hosted virtualization\n• Examples: Workstation, VirtualBox\n• Runs on top of Windows / macOS / Linux"
+    },
+    {
+      "front": "IaaS / PaaS / SaaS",
+      "back": "• IaaS: VMs, storage, networks\n• PaaS: managed platform for apps\n• SaaS: full software (email, Office online)"
+    },
+    {
+      "front": "Laser fuser",
+      "back": "• Applies heat and pressure\n• Bonds toner permanently to paper\n• If toner smears off → suspect the fuser"
+    },
+    {
+      "front": "Laser drum",
+      "back": "• Holds the electrostatic image\n• Defects often cause repeating marks\n• Marks often match drum circumference"
+    },
+    {
+      "front": "PoE",
+      "back": "• Power over Ethernet\n• DC power + data on one cable\n• Used for APs, cameras, phones"
+    },
+    {
+      "front": "POST",
+      "back": "• Power-On Self-Test at boot\n• Firmware checks hardware before OS\n• Beep / POST codes help isolate faults"
+    },
+    {
+      "front": "Multimeter basics",
+      "back": "• Measure voltage on PSU rails\n• Yellow ~12V · Red ~5V\n• Continuity mode finds broken wires/fuses"
+    },
+    {
+      "front": "Toner probe",
+      "back": "• Tone generator + inductive probe\n• Traces a cable through walls\n• Best for finding one cable in a bundle"
+    },
+    {
+      "front": "Punchdown tool",
+      "back": "• Seats conductors into IDC terminals\n• Used on patch panels and keystone jacks\n• 110 and 66 blocks are common"
+    },
+    {
+      "front": "Loopback plug",
+      "back": "• Connects TX back to RX\n• Tests NIC or switch port hardware\n• Useful when link light is missing"
+    },
+    {
+      "front": "DHCP DORA",
+      "back": "• Discover → Offer → Request → Ack\n• Four steps of getting a lease\n• Know this sequence cold"
+    },
+    {
+      "front": "100 meter rule",
+      "back": "• Max copper Ethernet channel length\n• Includes the patch cords\n• Beyond 100 m → use fiber"
+    }
+  ],
+  "identifyQuestions": [
+    {
+      "svg": "atx24",
+      "answer": "24-pin ATX",
+      "options": [
+        "24-pin ATX",
+        "8-pin CPU",
+        "PCIe 8-pin",
+        "SATA Power"
+      ]
+    },
+    {
+      "svg": "cpu8",
+      "answer": "8-pin CPU / EPS",
+      "options": [
+        "PCIe 8-pin",
+        "8-pin CPU / EPS",
+        "24-pin ATX",
+        "Molex"
+      ]
+    },
+    {
+      "svg": "pcie8",
+      "answer": "PCIe 8-pin",
+      "options": [
+        "8-pin CPU",
+        "SATA Power",
+        "PCIe 8-pin",
+        "24-pin ATX"
+      ]
+    },
+    {
+      "svg": "sataPower",
+      "answer": "SATA Power",
+      "options": [
+        "SATA Data",
+        "SATA Power",
+        "Molex",
+        "PCIe 6-pin"
+      ]
+    },
+    {
+      "svg": "sataData",
+      "answer": "SATA Data",
+      "options": [
+        "SATA Power",
+        "USB-A",
+        "SATA Data",
+        "RJ-45"
+      ]
+    },
+    {
+      "svg": "rj45",
+      "answer": "RJ-45",
+      "options": [
+        "RJ-11",
+        "RJ-45",
+        "USB-B",
+        "HDMI"
+      ]
+    },
+    {
+      "svg": "hdmi",
+      "answer": "HDMI",
+      "options": [
+        "DisplayPort",
+        "VGA",
+        "DVI",
+        "HDMI"
+      ]
+    },
+    {
+      "svg": "m2",
+      "answer": "M.2 NVMe",
+      "options": [
+        "2.5-inch SATA SSD",
+        "M.2 NVMe",
+        "PCIe x1 card",
+        "mSATA"
+      ]
+    },
+    {
+      "svg": "lga1700",
+      "answer": "LGA 1700",
+      "options": [
+        "AM5",
+        "LGA 1200",
+        "LGA 1700",
+        "AM4"
+      ]
+    },
+    {
+      "svg": "am5",
+      "answer": "AM5",
+      "options": [
+        "LGA 1700",
+        "AM4",
+        "AM5",
+        "sTRX4"
+      ]
+    },
+    {
+      "svg": "crimper",
+      "answer": "Crimper",
+      "options": [
+        "Crimper",
+        "Toner probe",
+        "Punchdown tool",
+        "Cable tester"
+      ]
+    },
+    {
+      "svg": "toner",
+      "answer": "Toner Probe",
+      "options": [
+        "Cable tester",
+        "Toner Probe",
+        "Loopback plug",
+        "Multimeter"
+      ]
+    },
+    {
+      "svg": "cableTester",
+      "answer": "Cable Tester",
+      "options": [
+        "Crimper",
+        "Wi-Fi analyzer",
+        "Cable Tester",
+        "POST card"
+      ]
+    },
+    {
+      "svg": "punchdown",
+      "answer": "Punchdown Tool",
+      "options": [
+        "Punchdown Tool",
+        "Cable stripper",
+        "Loopback plug",
+        "Network tap"
+      ]
+    },
+    {
+      "svg": "loopback",
+      "answer": "Loopback Plug",
+      "options": [
+        "Network tap",
+        "Loopback Plug",
+        "POST card",
+        "Crimper"
+      ]
+    },
+    {
+      "svg": "wifiAnalyzer",
+      "answer": "Wi-Fi Analyzer",
+      "options": [
+        "Multimeter",
+        "Wi-Fi Analyzer",
+        "Toner probe",
+        "Cable tester"
+      ]
+    },
+    {
+      "svg": "multimeter",
+      "answer": "Multimeter",
+      "options": [
+        "POST card",
+        "Multimeter",
+        "Punchdown tool",
+        "Loopback plug"
+      ]
+    },
+    {
+      "svg": "postCard",
+      "answer": "POST Card",
+      "options": [
+        "POST Card",
+        "Network tap",
+        "Cable stripper",
+        "Crimper"
+      ]
+    }
+  ],
+  "allQuestions": [
+    {
+      "d": "mobile",
+      "obj": "1.1",
+      "q": "A technician is replacing a swollen battery in a laptop. After installing the new battery, the laptop will not power on. Which of the following should the technician do FIRST?",
+      "options": [
+        "Update the BIOS immediately",
+        "Replace the motherboard",
+        "Reimage the OS",
+        "Reseat the battery connector and verify the battery is compatible"
+      ],
+      "a": 3,
+      "e": "Always reseat connections and confirm part compatibility before escalating to board replacement."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.1",
+      "q": "A user reports a laptop touchpad is unresponsive after a screen replacement. The external mouse works fine. Which component is MOST likely the cause?",
+      "options": [
+        "CMOS battery",
+        "Digitizer or touchpad ribbon cable not reseated",
+        "Wi-Fi card",
+        "System RAM"
+      ],
+      "a": 1,
+      "e": "After display work, ribbon cables for the digitizer/touchpad are commonly left unseated."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.1",
+      "q": "Which of the following mobile components is MOST associated with physical privacy features?",
+      "options": [
+        "SATA power connector",
+        "Biometric sensors (fingerprint/face)",
+        "SSD form factor",
+        "RAID controller"
+      ],
+      "a": 1,
+      "e": "Biometrics and related privacy hardware are called out under mobile physical privacy/security components."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.2",
+      "q": "A technician needs to connect a laptop to a docking station that provides multiple USB ports, Ethernet, and video output through a single cable. Which connection type BEST supports this?",
+      "options": [
+        "SATA data",
+        "USB-C / Thunderbolt docking",
+        "RJ-11",
+        "VGA only"
+      ],
+      "a": 1,
+      "e": "Modern docks commonly use USB-C or Thunderbolt to carry data, video, and power."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.2",
+      "q": "Which mobile connectivity method is intended for very short-range contactless interactions such as payments?",
+      "options": [
+        "NFC",
+        "GPS",
+        "802.11ax",
+        "Bluetooth Classic only"
+      ],
+      "a": 0,
+      "e": "NFC is designed for near-field, short-range use cases like payments and pairing."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.2",
+      "q": "A user wants to use a wireless headset with a smartphone. After enabling Bluetooth on both devices, what is the NEXT step?",
+      "options": [
+        "Configure a VLAN",
+        "Update the subnet mask",
+        "Put devices in pairing mode and confirm the PIN/passkey",
+        "Assign a static IP"
+      ],
+      "a": 2,
+      "e": "Bluetooth pairing requires discovery and confirmation of a code/PIN."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.3",
+      "q": "A user cannot connect a phone to the corporate Wi-Fi that requires 802.1X credentials. The home Wi-Fi works. Which of the following is the MOST likely missing configuration?",
+      "options": [
+        "Correct enterprise authentication settings (EAP method/credentials)",
+        "HDMI output enabled",
+        "RAID 1 on the phone",
+        "APIPA address on the phone"
+      ],
+      "a": 0,
+      "e": "Enterprise Wi-Fi often needs specific EAP methods and credentials managed via MDM or manual profile."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.3",
+      "q": "A technician enables a phone hotspot so a laptop can share the cellular connection. The laptop connects to the hotspot SSID but has no internet. Which of the following should be checked FIRST?",
+      "options": [
+        "Phone OLED calibration",
+        "Laptop GPU drivers",
+        "Cellular data is enabled and not restricted on the phone",
+        "Laptop RAID configuration"
+      ],
+      "a": 2,
+      "e": "Hotspot shares cellular data — if cellular data is off or capped, clients get no internet."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.3",
+      "q": "Which technology allows a phone to use a carrier profile without inserting a physical SIM card?",
+      "options": [
+        "eSIM",
+        "PCIe x16",
+        "T568B",
+        "SATA"
+      ],
+      "a": 0,
+      "e": "eSIM is embedded and provisioned digitally."
+    },
+    {
+      "d": "network",
+      "obj": "2.1",
+      "q": "A technician needs a protocol that provides reliable, ordered delivery of data between applications. Which protocol should be used?",
+      "options": [
+        "ICMP",
+        "TCP",
+        "ARP",
+        "UDP"
+      ],
+      "a": 1,
+      "e": "TCP is connection-oriented and provides reliable, ordered delivery."
+    },
+    {
+      "d": "network",
+      "obj": "2.1",
+      "q": "Which port is used by HTTPS by default?",
+      "options": [
+        "22",
+        "80",
+        "443",
+        "25"
+      ],
+      "a": 2,
+      "e": "HTTPS uses TCP port 443."
+    },
+    {
+      "d": "network",
+      "obj": "2.1",
+      "q": "A remote administrator connects to Windows desktops using Remote Desktop. Which port must be allowed through the firewall?",
+      "options": [
+        "53",
+        "445",
+        "3389",
+        "22"
+      ],
+      "a": 2,
+      "e": "RDP uses port 3389."
+    },
+    {
+      "d": "network",
+      "obj": "2.1",
+      "q": "Which protocol is BEST suited for real-time voice where occasional packet loss is preferred over retransmission delay?",
+      "options": [
+        "SMTP",
+        "FTP",
+        "UDP",
+        "TCP"
+      ],
+      "a": 2,
+      "e": "UDP is used when low latency matters more than guaranteed delivery (VoIP, streaming)."
+    },
+    {
+      "d": "network",
+      "obj": "2.1",
+      "q": "DNS name resolution primarily uses which port?",
+      "options": [
+        "53",
+        "80",
+        "110",
+        "67"
+      ],
+      "a": 0,
+      "e": "DNS uses port 53 (UDP/TCP)."
+    },
+    {
+      "d": "network",
+      "obj": "2.1",
+      "q": "SSH is used to securely manage a Linux server. Which port should be open?",
+      "options": [
+        "389",
+        "23",
+        "21",
+        "22"
+      ],
+      "a": 3,
+      "e": "SSH uses TCP port 22."
+    },
+    {
+      "d": "network",
+      "obj": "2.2",
+      "q": "A company wants the strongest commonly available encryption for a new SOHO wireless network. Which should the technician configure?",
+      "options": [
+        "WEP",
+        "WPA3-Personal",
+        "WPA2-Personal",
+        "WPA"
+      ],
+      "a": 1,
+      "e": "WPA3 is the current preferred standard for personal/SOHO networks."
+    },
+    {
+      "d": "network",
+      "obj": "2.2",
+      "q": "802.11ax is marketed as which Wi-Fi generation?",
+      "options": [
+        "Wi-Fi 3",
+        "Wi-Fi 5",
+        "Wi-Fi 6",
+        "Wi-Fi 4"
+      ],
+      "a": 2,
+      "e": "802.11ax is Wi-Fi 6 (6E adds 6 GHz)."
+    },
+    {
+      "d": "network",
+      "obj": "2.2",
+      "q": "A technician is designing a WLAN and must support 2.4 GHz, 5 GHz, and 6 GHz clients. Which standard BEST supports all three bands?",
+      "options": [
+        "802.11b only",
+        "802.11g only",
+        "Bluetooth",
+        "802.11ax (Wi-Fi 6E capable)"
+      ],
+      "a": 3,
+      "e": "Wi-Fi 6E extends 802.11ax into the 6 GHz band."
+    },
+    {
+      "d": "network",
+      "obj": "2.2",
+      "q": "Which wireless technology is MOST appropriate for a fitness tracker that needs low power and short range to a phone?",
+      "options": [
+        "802.11ac only",
+        "Single-mode fiber",
+        "Bluetooth",
+        "NFC payment terminal only"
+      ],
+      "a": 2,
+      "e": "Bluetooth is commonly used for low-power personal area device connectivity."
+    },
+    {
+      "d": "network",
+      "obj": "2.3",
+      "q": "Which networked host service assigns IP addresses automatically to clients?",
+      "options": [
+        "NTP",
+        "Syslog",
+        "DNS",
+        "DHCP"
+      ],
+      "a": 3,
+      "e": "DHCP provides automatic IP configuration."
+    },
+    {
+      "d": "network",
+      "obj": "2.3",
+      "q": "A user can browse by IP address but not by website name. Which service is MOST likely failing?",
+      "options": [
+        "DHCP",
+        "DNS",
+        "RDP",
+        "SMTP"
+      ],
+      "a": 1,
+      "e": "Name resolution failure points to DNS."
+    },
+    {
+      "d": "network",
+      "obj": "2.3",
+      "q": "Which server role provides authentication, authorization, and accounting for network access?",
+      "options": [
+        "AAA server",
+        "Syslog only",
+        "Print server",
+        "File share only"
+      ],
+      "a": 0,
+      "e": "AAA services handle authentication, authorization, and accounting."
+    },
+    {
+      "d": "network",
+      "obj": "2.3",
+      "q": "Network Time Protocol (NTP) is used to:",
+      "options": [
+        "Resolve hostnames",
+        "Route between VLANs",
+        "Assign IP addresses",
+        "Synchronize clocks across devices"
+      ],
+      "a": 3,
+      "e": "NTP keeps device clocks synchronized."
+    },
+    {
+      "d": "network",
+      "obj": "2.4",
+      "q": "A workstation received an IP address of 169.254.20.15. What does this indicate?",
+      "options": [
+        "Successful DHCP lease from the server",
+        "APIPA address due to DHCP failure",
+        "Public internet IP",
+        "IPv6-only configuration"
+      ],
+      "a": 1,
+      "e": "169.254.0.0/16 is APIPA when DHCP does not respond."
+    },
+    {
+      "d": "network",
+      "obj": "2.4",
+      "q": "Which DNS record type maps a hostname to an IPv4 address?",
+      "options": [
+        "CNAME only",
+        "AAAA",
+        "A",
+        "MX"
+      ],
+      "a": 2,
+      "e": "A records map names to IPv4 addresses."
+    },
+    {
+      "d": "network",
+      "obj": "2.4",
+      "q": "A technician configures a DHCP scope but some addresses must never be handed out to clients. What feature should be used?",
+      "options": [
+        "Exclusions",
+        "Port forwarding",
+        "AAAA records",
+        "Reservations only"
+      ],
+      "a": 0,
+      "e": "Exclusions remove addresses from the pool so they are not leased."
+    },
+    {
+      "d": "network",
+      "obj": "2.4",
+      "q": "Which technology creates a secure tunnel over a public network for remote users?",
+      "options": [
+        "VPN",
+        "APIPA",
+        "Punchdown",
+        "VLAN"
+      ],
+      "a": 0,
+      "e": "VPNs encrypt traffic over untrusted networks."
+    },
+    {
+      "d": "network",
+      "obj": "2.5",
+      "q": "Which device makes forwarding decisions based primarily on MAC addresses?",
+      "options": [
+        "WISP antenna only",
+        "Modem only",
+        "Layer 2 switch",
+        "Router"
+      ],
+      "a": 2,
+      "e": "Traditional switches operate at Layer 2 using MAC addresses."
+    },
+    {
+      "d": "network",
+      "obj": "2.5",
+      "q": "Which device is BEST for separating broadcast domains and routing between IP networks?",
+      "options": [
+        "Hub",
+        "Unmanaged switch",
+        "Router",
+        "Patch panel"
+      ],
+      "a": 2,
+      "e": "Routers route between different IP networks and separate broadcast domains."
+    },
+    {
+      "d": "network",
+      "obj": "2.5",
+      "q": "Power over Ethernet (PoE) is used to:",
+      "options": [
+        "Increase Wi-Fi channel width only",
+        "Replace DNS",
+        "Deliver power and data over the same Ethernet cable",
+        "Terminate fiber only"
+      ],
+      "a": 2,
+      "e": "PoE supplies DC power plus data to devices like APs and cameras."
+    },
+    {
+      "d": "network",
+      "obj": "2.5",
+      "q": "Which device converts fiber from an ISP to Ethernet for customer premises?",
+      "options": [
+        "ONT",
+        "Toner probe",
+        "Unmanaged hub",
+        "DB-9 adapter"
+      ],
+      "a": 0,
+      "e": "An Optical Network Terminal terminates the fiber link at the customer site."
+    },
+    {
+      "d": "network",
+      "obj": "2.6",
+      "q": "A technician is configuring a SOHO router for a small office. Which setting is MOST important to prevent unauthorized wireless access?",
+      "options": [
+        "Set APIPA as the default gateway",
+        "Use port 23 for management",
+        "Disable DHCP",
+        "Enable strong Wi-Fi encryption (WPA3/WPA2) and a strong passphrase"
+      ],
+      "a": 3,
+      "e": "Strong encryption and credentials are fundamental SOHO wireless security."
+    },
+    {
+      "d": "network",
+      "obj": "2.6",
+      "q": "Users on a SOHO network need a server on the LAN to be reachable from the internet on port 443. Which feature should be configured?",
+      "options": [
+        "Port forwarding",
+        "BIOS password only",
+        "APIPA",
+        "RAID 0"
+      ],
+      "a": 0,
+      "e": "Port forwarding maps an external port to an internal host."
+    },
+    {
+      "d": "network",
+      "obj": "2.6",
+      "q": "A SOHO router is handing out addresses in 192.168.1.0/24. A technician wants printers to keep the same IP. What should be configured?",
+      "options": [
+        "WEP",
+        "DNS AAAA only",
+        "DHCP reservations",
+        "Striping"
+      ],
+      "a": 2,
+      "e": "Reservations bind a MAC address to a consistent IP lease."
+    },
+    {
+      "d": "network",
+      "obj": "2.6",
+      "q": "Which SOHO setting creates a separate wireless network for visitors with restricted access to internal resources?",
+      "options": [
+        "Static routing only",
+        "RAID 5",
+        "Guest network",
+        "Port 25 open"
+      ],
+      "a": 2,
+      "e": "Guest networks isolate visitors from the main LAN."
+    },
+    {
+      "d": "network",
+      "obj": "2.7",
+      "q": "Which internet connection type is MOST likely to have high latency due to the distance signal must travel?",
+      "options": [
+        "Fiber to the home",
+        "Local Ethernet only",
+        "Satellite",
+        "Cable broadband"
+      ],
+      "a": 2,
+      "e": "Satellite links typically have higher latency due to the long path to orbit."
+    },
+    {
+      "d": "network",
+      "obj": "2.7",
+      "q": "Which network type spans a city or campus-sized geographic area?",
+      "options": [
+        "SAN only",
+        "MAN",
+        "LAN",
+        "PAN"
+      ],
+      "a": 1,
+      "e": "A Metropolitan Area Network covers a city or large campus area."
+    },
+    {
+      "d": "network",
+      "obj": "2.7",
+      "q": "A storage area network (SAN) is BEST described as:",
+      "options": [
+        "A guest Wi-Fi SSID",
+        "An APIPA range",
+        "A dedicated high-speed network for block storage",
+        "A Bluetooth headset network"
+      ],
+      "a": 2,
+      "e": "SANs provide dedicated storage networking."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "A technician needs to identify which wall jack connects to a specific cable in a bundle. Which tool is BEST?",
+      "options": [
+        "Crimper",
+        "Loopback plug only",
+        "Punchdown tool only",
+        "Toner probe"
+      ],
+      "a": 3,
+      "e": "A toner probe traces cables with an audible tone."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "Which tool verifies wire mapping and can detect opens/shorts on an Ethernet cable?",
+      "options": [
+        "Cable tester",
+        "ONT",
+        "Wi-Fi analyzer only",
+        "DB-9 serial adapter"
+      ],
+      "a": 0,
+      "e": "Cable testers check continuity, pairs, and faults."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "A technician is terminating wires into a patch panel. Which tool is required?",
+      "options": [
+        "Toner probe only",
+        "Loopback plug",
+        "Crimper only",
+        "Punchdown tool"
+      ],
+      "a": 3,
+      "e": "Punchdown tools seat conductors into IDC blocks on panels and keystone jacks."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.1",
+      "q": "A graphic designer needs a monitor with the BEST color accuracy and wide viewing angles. Which panel type is MOST appropriate?",
+      "options": [
+        "CRT only",
+        "IPS",
+        "TN",
+        "Passive matrix only"
+      ],
+      "a": 1,
+      "e": "IPS generally offers better color and viewing angles than TN."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.1",
+      "q": "Which display technology can produce true black by turning individual pixels completely off?",
+      "options": [
+        "TN LCD",
+        "IPS LCD",
+        "OLED",
+        "CCFL backlight only"
+      ],
+      "a": 2,
+      "e": "OLED pixels emit their own light and can turn off for true black."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.1",
+      "q": "A laptop screen is dim even at maximum brightness. An external monitor works fine. Which component is MOST likely failing?",
+      "options": [
+        "SATA data cable",
+        "Inverter (CCFL) or LED backlight / display assembly",
+        "GPU only",
+        "NIC"
+      ],
+      "a": 1,
+      "e": "Dim internal display with working external output points to backlight/display path issues."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.2",
+      "q": "Which connector is the standard for Ethernet networking?",
+      "options": [
+        "RJ-45",
+        "Molex",
+        "RJ-11",
+        "DB-9"
+      ],
+      "a": 0,
+      "e": "RJ-45 is the standard twisted-pair Ethernet connector."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.2",
+      "q": "A technician is wiring an office to T568B. Which of the following is being standardized?",
+      "options": [
+        "Ethernet twisted-pair pinout",
+        "RAID level",
+        "Wi-Fi channel width",
+        "Fiber core diameter only"
+      ],
+      "a": 0,
+      "e": "T568A/B define the pin/pair order for RJ-45 termination."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.2",
+      "q": "Which cable type is required when running through air-handling spaces for fire code compliance?",
+      "options": [
+        "USB 2.0 only",
+        "Plenum-rated",
+        "PVC only",
+        "RG-59 only"
+      ],
+      "a": 1,
+      "e": "Plenum-rated cable uses low-smoke, fire-retardant jacket materials."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.2",
+      "q": "Which fiber type is typically used for the longest distance runs?",
+      "options": [
+        "Multimode",
+        "Single-mode",
+        "Coaxial RG-6",
+        "Cat5e"
+      ],
+      "a": 1,
+      "e": "Single-mode fiber supports much longer distances than multimode."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.3",
+      "q": "A technician upgrades a desktop from DDR4 to DDR5. The new modules will not seat in the motherboard. What is the MOST likely reason?",
+      "options": [
+        "Wrong GPU brand",
+        "Disabled Secure Boot only",
+        "DDR4 and DDR5 are not physically/electrically compatible",
+        "Incorrect OS edition"
+      ],
+      "a": 2,
+      "e": "DDR4 and DDR5 have different keying and signaling."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.3",
+      "q": "To enable dual-channel memory with two modules, a technician should:",
+      "options": [
+        "Install modules in the matched slots recommended by the motherboard vendor",
+        "Use unmatched sizes only",
+        "Install both in the same channel only",
+        "Disable XMP always"
+      ],
+      "a": 0,
+      "e": "Dual-channel requires one module per channel in the correct slots."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.3",
+      "q": "ECC memory is MOST commonly required in which environment?",
+      "options": [
+        "Servers and mission-critical workstations",
+        "IoT sensors only",
+        "Casual home gaming only",
+        "Smartphones only"
+      ],
+      "a": 0,
+      "e": "ECC detects/corrects memory errors and is common in servers."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.4",
+      "q": "A user needs the FASTEST consumer storage for an OS drive. Which is the BEST choice?",
+      "options": [
+        "USB 2.0 flash drive",
+        "SATA SSD",
+        "5400 RPM HDD",
+        "NVMe M.2 SSD"
+      ],
+      "a": 3,
+      "e": "NVMe over PCIe is significantly faster than SATA."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.4",
+      "q": "RAID 1 offers which primary benefit?",
+      "options": [
+        "No redundancy",
+        "Parity with minimum 5 drives",
+        "Mirroring for redundancy",
+        "Maximum capacity with striping only"
+      ],
+      "a": 2,
+      "e": "RAID 1 mirrors data across drives."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.4",
+      "q": "What is the MINIMUM number of drives required for RAID 5?",
+      "options": [
+        "4",
+        "2",
+        "6",
+        "3"
+      ],
+      "a": 3,
+      "e": "RAID 5 needs at least three drives for striping with parity."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.4",
+      "q": "An M.2 2280 SSD refers to which characteristic?",
+      "options": [
+        "Only SATA signaling",
+        "Physical size (22mm wide, 80mm long)",
+        "RAID level",
+        "Power rating only"
+      ],
+      "a": 1,
+      "e": "2280 describes the module dimensions."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.5",
+      "q": "A technician is installing an Intel Core i7-14700K. Which socket must the motherboard have?",
+      "options": [
+        "LGA 1700",
+        "LGA 1200",
+        "AM5",
+        "AM4"
+      ],
+      "a": 0,
+      "e": "12th–14th gen Intel desktop CPUs use LGA 1700."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.5",
+      "q": "A user purchases an AMD Ryzen 7 7800X3D. Which socket is required?",
+      "options": [
+        "AM5",
+        "sTR4 only",
+        "LGA 1151",
+        "LGA 1700"
+      ],
+      "a": 0,
+      "e": "Ryzen 7000-series desktop CPUs use AM5."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.5",
+      "q": "A Mini-ITX motherboard is being installed. Which statement is TRUE?",
+      "options": [
+        "It requires ECC RAM only",
+        "It fits cases that list Mini-ITX support",
+        "It only fits full-tower cases",
+        "It cannot use NVMe"
+      ],
+      "a": 1,
+      "e": "Mini-ITX boards fit Mini-ITX and many larger cases that support the form factor."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.5",
+      "q": "When installing a high-end GPU, which of the following must the technician verify?",
+      "options": [
+        "Only the front-panel audio header",
+        "Only the monitor brand",
+        "Only the CMOS battery voltage",
+        "Case clearance, PCIe slot, and adequate PSU connectors/wattage"
+      ],
+      "a": 3,
+      "e": "GPUs need physical space, a PCIe x16 slot, and sufficient power."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.6",
+      "q": "A new PC build has a 450 W PSU and a GPU that requires two 8-pin PCIe power connectors. The system reboots under load. What is the MOST likely issue?",
+      "options": [
+        "Wrong RAM generation only",
+        "Disabled Bluetooth",
+        "Insufficient PSU wattage or missing PCIe power connectors",
+        "Incorrect SSID"
+      ],
+      "a": 2,
+      "e": "Underpowered PSUs or missing GPU power cables cause instability under load."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.6",
+      "q": "Which PSU feature indicates higher efficiency under load?",
+      "options": [
+        "80 Plus rating (e.g., Gold)",
+        "Number of SATA data ports",
+        "RAID support",
+        "T568B compliance"
+      ],
+      "a": 0,
+      "e": "80 Plus certifications rate power supply efficiency."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.6",
+      "q": "Which connector primarily supplies power to the motherboard?",
+      "options": [
+        "24-pin ATX",
+        "SATA power",
+        "RJ-45",
+        "PCIe 6-pin only"
+      ],
+      "a": 0,
+      "e": "The 24-pin ATX is the main motherboard power connector."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.6",
+      "q": "CPU power on modern motherboards is typically provided by which connector?",
+      "options": [
+        "4/8-pin EPS (CPU power)",
+        "HDMI",
+        "24-pin only",
+        "Molex only"
+      ],
+      "a": 0,
+      "e": "CPU/EPS power is a separate 4-pin or 8-pin connector."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.7",
+      "q": "A company deploys a multifunction printer. Users need to print from Windows and macOS with accurate PostScript output. Which consideration is MOST important?",
+      "options": [
+        "Install appropriate drivers (PCL vs PostScript) for each OS",
+        "Use APIPA addressing",
+        "Set RAID 0 on the printer",
+        "Disable IPv6 only"
+      ],
+      "a": 0,
+      "e": "Driver language (PCL/PostScript) and OS-specific drivers affect output quality."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.7",
+      "q": "Which connectivity options are commonly used for network printers?",
+      "options": [
+        "DisplayPort only",
+        "SATA data only",
+        "USB, Ethernet, and wireless",
+        "PCIe x16 only"
+      ],
+      "a": 2,
+      "e": "Printers commonly support USB, Ethernet, and Wi-Fi."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.8",
+      "q": "Laser prints show repeating horizontal defects. Which component is the MOST likely cause?",
+      "options": [
+        "Pickup rollers only",
+        "Network cable",
+        "Drum unit",
+        "CMOS battery"
+      ],
+      "a": 2,
+      "e": "Drum defects often create repeating marks at the drum circumference."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.8",
+      "q": "Printed pages smear when touched. Which maintenance component should be checked FIRST?",
+      "options": [
+        "DHCP scope",
+        "Wi-Fi SSID",
+        "GPU power cable",
+        "Fuser assembly"
+      ],
+      "a": 3,
+      "e": "A failing fuser does not properly bond toner to paper."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.8",
+      "q": "A laser printer jams only when printing double-sided. Which component is MOST likely at fault?",
+      "options": [
+        "Duplexer",
+        "CMOS battery",
+        "RJ-45 port",
+        "M.2 slot"
+      ],
+      "a": 0,
+      "e": "Duplex-only jams isolate the problem to the duplex path/unit."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.1",
+      "q": "Which type of hypervisor runs directly on the host hardware without a host OS?",
+      "options": [
+        "APIPA hypervisor",
+        "SaaS only",
+        "Type 1 (bare metal)",
+        "Type 2"
+      ],
+      "a": 2,
+      "e": "Type 1 hypervisors run on bare metal (e.g., ESXi)."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.1",
+      "q": "VMware Workstation and Oracle VirtualBox are examples of:",
+      "options": [
+        "Type 1 hypervisors",
+        "Physical routers",
+        "SAN fabric only",
+        "Type 2 hypervisors"
+      ],
+      "a": 3,
+      "e": "Type 2 hypervisors run on top of a host operating system."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.1",
+      "q": "A company hosts user desktops in the data center and delivers them to thin clients. This is an example of:",
+      "options": [
+        "RAID 0",
+        "APIPA",
+        "VDI",
+        "T568A"
+      ],
+      "a": 2,
+      "e": "Virtual Desktop Infrastructure hosts desktops centrally."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.1",
+      "q": "When creating a VM, which resources does an administrator typically allocate?",
+      "options": [
+        "Only monitor brand",
+        "vCPU, memory, storage, and network",
+        "Only the physical GPU serial number",
+        "Only the ISP account"
+      ],
+      "a": 1,
+      "e": "VMs are assigned virtual CPU, RAM, disk, and network resources."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.2",
+      "q": "Which cloud model provides virtual machines and storage while the customer manages the OS and applications?",
+      "options": [
+        "PaaS",
+        "PAN",
+        "IaaS",
+        "SaaS"
+      ],
+      "a": 2,
+      "e": "IaaS provides infrastructure building blocks."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.2",
+      "q": "A company uses web-based email and office applications with no local servers. This is an example of:",
+      "options": [
+        "Bare-metal colo only",
+        "Type 1 only",
+        "IaaS",
+        "SaaS"
+      ],
+      "a": 3,
+      "e": "SaaS delivers complete applications to users."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.2",
+      "q": "Which cloud characteristic allows resources to scale up or down with demand automatically?",
+      "options": [
+        "Rapid elasticity",
+        "Measured service only",
+        "Static VLAN only",
+        "On-prem only licensing"
+      ],
+      "a": 0,
+      "e": "Rapid elasticity is a core cloud characteristic."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.2",
+      "q": "Measured service in cloud computing refers to:",
+      "options": [
+        "Fixed capacity with no tracking",
+        "Metering usage for billing and reporting",
+        "Disabling DHCP",
+        "CPU temperature monitoring only"
+      ],
+      "a": 1,
+      "e": "Cloud providers meter consumption for billing."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.1",
+      "q": "A desktop produces continuous beep codes at power-on and will not display video. Which of the following is the MOST likely category of problem?",
+      "options": [
+        "Successful POST",
+        "Hardware fault detected during POST (e.g., RAM/video)",
+        "Only a missing SSID",
+        "Only a DHCP exclusion"
+      ],
+      "a": 1,
+      "e": "POST beep codes indicate hardware problems found at startup."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.1",
+      "q": "A PC randomly shuts down under load and the air from the exhaust is very hot. Which of the following should be checked FIRST?",
+      "options": [
+        "DNS settings",
+        "Printer drivers",
+        "Cooling path: fans, dust, thermal paste",
+        "Guest Wi-Fi password"
+      ],
+      "a": 2,
+      "e": "Thermal shutdowns point to cooling failures."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.1",
+      "q": "After a power outage, a PC loses the date/time and boot order settings. Which component is MOST likely failing?",
+      "options": [
+        "GPU",
+        "SATA data cable",
+        "CMOS battery",
+        "RJ-45 jack"
+      ],
+      "a": 2,
+      "e": "The CMOS battery maintains BIOS settings and clock when power is removed."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.1",
+      "q": "A technician smells burning plastic from a PC case. What is the BEST immediate action?",
+      "options": [
+        "Continue stress testing",
+        "Power off and disconnect power, then investigate",
+        "Increase fan curves only via software while running",
+        "Ignore if POST succeeds"
+      ],
+      "a": 1,
+      "e": "Burning smells indicate possible electrical failure — safety first."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.2",
+      "q": "A hard drive makes repetitive clicking sounds and files are disappearing. What should the technician do FIRST?",
+      "options": [
+        "Run a full defrag only",
+        "Disable DHCP",
+        "Update the GPU driver",
+        "Back up recoverable data and replace the drive"
+      ],
+      "a": 3,
+      "e": "Clicking HDDs often indicate imminent failure — prioritize data."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.2",
+      "q": "S.M.A.R.T. status reports imminent drive failure. Which action is MOST appropriate?",
+      "options": [
+        "Convert to RAID 0 for speed",
+        "Disable S.M.A.R.T. in BIOS",
+        "Ignore until the OS crashes",
+        "Replace the drive after ensuring backups"
+      ],
+      "a": 3,
+      "e": "S.M.A.R.T. warnings should trigger backup and replacement planning."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.2",
+      "q": "A RAID 5 array shows a single drive failure but data is still accessible. What is the BEST next step?",
+      "options": [
+        "Convert to RAID 0",
+        "Disable the NIC",
+        "Delete the array immediately",
+        "Replace the failed drive and allow rebuild"
+      ],
+      "a": 3,
+      "e": "RAID 5 can survive one drive failure; replace and rebuild promptly."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.2",
+      "q": "Users report very slow file access on a server. The array LED shows degraded status. Which is the MOST likely issue?",
+      "options": [
+        "RAID degradation after drive failure",
+        "APIPA on the printer",
+        "Dead CMOS battery only",
+        "Wrong Wi-Fi channel only"
+      ],
+      "a": 0,
+      "e": "Degraded RAID arrays often perform poorly until rebuilt."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.3",
+      "q": "A projector displays a fuzzy image. Which of the following should the technician adjust FIRST?",
+      "options": [
+        "DHCP exclusions",
+        "RAID level",
+        "CPU socket type",
+        "Focus and input resolution/source"
+      ],
+      "a": 3,
+      "e": "Focus, keystone, resolution, and correct input are first checks for fuzzy images."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.3",
+      "q": "A monitor shows dead pixels. An external replacement monitor works fine on the same PC. What is the MOST likely cause?",
+      "options": [
+        "Failed CMOS battery",
+        "Failed RAM",
+        "Wrong default gateway",
+        "Defect in the original display panel"
+      ],
+      "a": 3,
+      "e": "Dead pixels are a panel defect; swapping the display isolates the issue."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.3",
+      "q": "A laptop display is black, but the system boots and external HDMI output works. Which is the MOST likely problem?",
+      "options": [
+        "Internal display cable, backlight, or lid switch issue",
+        "Failed DHCP server only",
+        "Wrong WPA passphrase only",
+        "Failed storage controller"
+      ],
+      "a": 0,
+      "e": "Working external video isolates the problem to the internal display path."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.3",
+      "q": "Users report burn-in on a conference room display used for static signage. Which technology is MOST susceptible?",
+      "options": [
+        "Cat6 cable",
+        "TN laptop panels only",
+        "OLED (and some plasma historically)",
+        "SATA SSDs"
+      ],
+      "a": 2,
+      "e": "OLED can suffer image retention/burn-in with static content."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.3",
+      "q": "A projector shuts down after 20 minutes and smells hot. Which is the MOST likely cause?",
+      "options": [
+        "Overheating (filter/fan/bulb)",
+        "APIPA",
+        "DNS failure",
+        "Wrong T568B pinout"
+      ],
+      "a": 0,
+      "e": "Thermal protection commonly shuts projectors down when airflow or bulbs overheat."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.4",
+      "q": "A phone battery is swollen and the screen is lifting. What is the BEST action?",
+      "options": [
+        "Overcharge overnight",
+        "Microwave the battery",
+        "Freeze the phone",
+        "Stop using the device and replace the battery safely"
+      ],
+      "a": 3,
+      "e": "Swollen batteries are hazardous and must be replaced with proper handling."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.4",
+      "q": "A tablet touchscreen registers touches inaccurately after a drop. Which component is MOST likely damaged?",
+      "options": [
+        "RAID controller",
+        "Digitizer",
+        "CMOS battery",
+        "SATA power connector"
+      ],
+      "a": 1,
+      "e": "The digitizer handles touch input."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.4",
+      "q": "A laptop cursor drifts when the user is not touching the pad. Which is a common fix?",
+      "options": [
+        "Enable port 23",
+        "Recalibrate/adjust touchpad settings or update drivers",
+        "Install RAID 1",
+        "Set a static APIPA address"
+      ],
+      "a": 1,
+      "e": "Cursor drift is often a calibration/driver/settings issue."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.5",
+      "q": "A workstation has an IP of 169.254.12.34 and cannot reach the internet. What should the technician check FIRST?",
+      "options": [
+        "GPU seating",
+        "OLED burn-in",
+        "Printer fuser",
+        "DHCP server availability, cable/link, and VLAN membership"
+      ],
+      "a": 3,
+      "e": "APIPA indicates DHCP failure or network isolation."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.5",
+      "q": "Users report intermittent Wi-Fi near the break room microwave. Which is the MOST likely cause?",
+      "options": [
+        "Failed ECC RAM",
+        "Wrong GPU power cable",
+        "Dead CMOS battery",
+        "2.4 GHz interference"
+      ],
+      "a": 3,
+      "e": "Microwaves commonly interfere with 2.4 GHz Wi-Fi."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.5",
+      "q": "A switch port is rapidly going up and down. What is this condition called?",
+      "options": [
+        "APIPA",
+        "Striping",
+        "Port bonding only",
+        "Port flapping"
+      ],
+      "a": 3,
+      "e": "Port flapping is repeated link up/down transitions."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.5",
+      "q": "Wired clients have no link lights. Wireless clients work. Where should the technician look FIRST?",
+      "options": [
+        "GPU drivers",
+        "Switch/cabling plant for the wired segment",
+        "Fuser assembly",
+        "WPA3 passphrase only"
+      ],
+      "a": 1,
+      "e": "No link lights point to physical/data-link problems on the wired path."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.6",
+      "q": "A laser printer produces pages with faded vertical streaks. Which components are the MOST likely causes?",
+      "options": [
+        "PCIe power cable",
+        "RJ-45 port",
+        "Toner and/or drum",
+        "CMOS battery"
+      ],
+      "a": 2,
+      "e": "Streaks often relate to toner distribution or drum issues."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.6",
+      "q": "Paper jams occur only on duplex jobs. Single-sided printing is fine. Which part should be replaced?",
+      "options": [
+        "Wi-Fi card",
+        "SATA data cable",
+        "CPU cooler",
+        "Duplexer"
+      ],
+      "a": 3,
+      "e": "Duplex-only failures isolate the duplex unit/path."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.6",
+      "q": "Users report toner rubs off after printing. Which component is MOST likely failing?",
+      "options": [
+        "Punchdown block",
+        "DHCP server",
+        "Type 1 hypervisor",
+        "Fuser"
+      ],
+      "a": 3,
+      "e": "Inadequate fusing leaves toner not bonded to the page."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.6",
+      "q": "According to troubleshooting methodology, after implementing a solution a technician should:",
+      "options": [
+        "Verify full system functionality and document findings",
+        "Immediately replace the motherboard",
+        "Disable all network interfaces",
+        "Skip documentation"
+      ],
+      "a": 0,
+      "e": "Verify functionality and document outcomes are required steps."
+    },
+    {
+      "d": "network",
+      "obj": "2.1",
+      "q": "A technician needs to allow secure web traffic through a firewall. Which port should be opened?",
+      "options": [
+        "443",
+        "80 only",
+        "137",
+        "23"
+      ],
+      "a": 0,
+      "e": "HTTPS uses TCP 443."
+    },
+    {
+      "d": "network",
+      "obj": "2.1",
+      "q": "Which protocol uses ports 20 and 21 by default?",
+      "options": [
+        "SSH",
+        "RDP",
+        "FTP",
+        "DNS"
+      ],
+      "a": 2,
+      "e": "FTP uses 21 (control) and 20 (data)."
+    },
+    {
+      "d": "network",
+      "obj": "2.3",
+      "q": "Which service would a technician use to collect centralized log messages from network devices?",
+      "options": [
+        "SMTP",
+        "DHCP",
+        "SMB",
+        "Syslog"
+      ],
+      "a": 3,
+      "e": "Syslog aggregates system and device logs."
+    },
+    {
+      "d": "network",
+      "obj": "2.4",
+      "q": "Which DNS record type is used for IPv6 address mapping?",
+      "options": [
+        "PTR only",
+        "AAAA",
+        "A",
+        "MX"
+      ],
+      "a": 1,
+      "e": "AAAA records store IPv6 addresses."
+    },
+    {
+      "d": "network",
+      "obj": "2.5",
+      "q": "Which device regenerates and forwards signals purely at Layer 1 and creates a single collision domain?",
+      "options": [
+        "Hub",
+        "Router",
+        "Firewall",
+        "Managed switch"
+      ],
+      "a": 0,
+      "e": "Hubs are Layer 1 multiport repeaters (legacy)."
+    },
+    {
+      "d": "network",
+      "obj": "2.6",
+      "q": "After changing a SOHO router's LAN IP, clients cannot get addresses. What is the MOST likely cause?",
+      "options": [
+        "Dead digitizer",
+        "DHCP scope still on the old subnet",
+        "Failed CMOS battery",
+        "Wrong GPU driver"
+      ],
+      "a": 1,
+      "e": "DHCP scope must match the LAN subnet."
+    },
+    {
+      "d": "network",
+      "obj": "2.7",
+      "q": "Which connection type is typically shared among many neighborhood customers and can suffer congestion at peak times?",
+      "options": [
+        "Point-to-point wireless only",
+        "Serial console",
+        "Cable broadband",
+        "Dedicated dark fiber only"
+      ],
+      "a": 2,
+      "e": "Cable internet is often shared in a neighborhood segment."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "A technician needs to measure wireless signal strength and overlapping channels. Which tool is BEST?",
+      "options": [
+        "Crimper",
+        "Punchdown tool",
+        "Loopback plug",
+        "Wi-Fi analyzer"
+      ],
+      "a": 3,
+      "e": "Wi-Fi analyzers show SSIDs, channels, and signal levels."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.1",
+      "q": "Which display attribute describes how many times the image is redrawn per second?",
+      "options": [
+        "Form factor",
+        "Refresh rate",
+        "RAID level",
+        "Color gamut"
+      ],
+      "a": 1,
+      "e": "Refresh rate is measured in Hz."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.2",
+      "q": "Which connector is commonly used for coaxial cable television and cable modems?",
+      "options": [
+        "LC",
+        "USB-C",
+        "F-type",
+        "RJ-45"
+      ],
+      "a": 2,
+      "e": "F-type connectors are standard on RG-6 coaxial."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.3",
+      "q": "A motherboard supports DDR5-5600 but the installed modules are DDR5-4800. What will MOST likely happen?",
+      "options": [
+        "Modules will not boot at all",
+        "RAID fails",
+        "CPU socket melts",
+        "System runs at the slower supported speed"
+      ],
+      "a": 3,
+      "e": "RAM runs at the highest mutually supported speed."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.4",
+      "q": "Which storage technology has no moving parts and typically offers the lowest latency?",
+      "options": [
+        "Floppy",
+        "SSD/NVMe",
+        "Tape only",
+        "HDD"
+      ],
+      "a": 1,
+      "e": "Solid-state storage has no mechanical seek time."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.5",
+      "q": "A PCIe x16 video card is installed in a x4 electrical slot. What is the MOST likely result?",
+      "options": [
+        "It will not fit",
+        "It requires RAID 1",
+        "It works at reduced bandwidth",
+        "It disables USB"
+      ],
+      "a": 2,
+      "e": "Cards can negotiate fewer lanes with reduced performance."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.6",
+      "q": "Modular power supplies are preferred because they:",
+      "options": [
+        "Replace the CMOS battery",
+        "Allow connecting only needed cables for better airflow/cable management",
+        "Increase RAID speed",
+        "Provide APIPA"
+      ],
+      "a": 1,
+      "e": "Modular cabling reduces clutter and improves airflow."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.7",
+      "q": "A shared office printer should be available to all users without USB cables to each desk. What is the BEST approach?",
+      "options": [
+        "Use only DB-9 serial",
+        "Network the printer via Ethernet/Wi-Fi or print server",
+        "Disable DHCP",
+        "Install RAID 5 on each PC"
+      ],
+      "a": 1,
+      "e": "Networked printers are the standard shared solution."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.8",
+      "q": "Calibration is MOST commonly performed on which device type?",
+      "options": [
+        "CMOS batteries",
+        "Punchdown blocks",
+        "Printers (especially color/inkjet and some lasers)",
+        "Unmanaged switch"
+      ],
+      "a": 2,
+      "e": "Printer calibration aligns heads/colors and print quality."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.1",
+      "q": "A thin client fails to display a desktop when the VDI broker is offline. Why?",
+      "options": [
+        "Thin clients always store full OS locally",
+        "RAID 0 is required",
+        "Thin clients depend on centralized virtual desktops",
+        "APIPA blocks VDI"
+      ],
+      "a": 2,
+      "e": "Thin clients rely on remote session infrastructure."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.2",
+      "q": "Which cloud model provides a managed runtime where developers deploy code without managing servers?",
+      "options": [
+        "IaaS",
+        "SAN",
+        "PaaS",
+        "PAN"
+      ],
+      "a": 2,
+      "e": "PaaS abstracts the infrastructure and OS."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.1",
+      "q": "A system fails to POST after new RAM is installed. What should the technician try FIRST?",
+      "options": [
+        "Change the SSID",
+        "Reseat modules, try known-good slots/modules, verify compatibility",
+        "Replace the GPU immediately",
+        "Reinstall the OS"
+      ],
+      "a": 1,
+      "e": "Reseat and compatibility checks come before board replacement."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.2",
+      "q": "RAID 0 array loses one drive. What is the result?",
+      "options": [
+        "Automatic rebuild to RAID 1",
+        "APIPA is assigned",
+        "Data remains fully available",
+        "Array fails and data is lost"
+      ],
+      "a": 3,
+      "e": "RAID 0 has no redundancy — any drive loss destroys the array."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.3",
+      "q": "A monitor displays the wrong colors. Which of the following should be checked?",
+      "options": [
+        "Only the DHCP lease",
+        "Only the CPU socket",
+        "Only the fuser temperature",
+        "Cable type/connection, color profile, and GPU output settings"
+      ],
+      "a": 3,
+      "e": "Color issues are often cable, profile, or GPU settings related."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.3",
+      "q": "An intermittent projector shutdown with a clogged filter is BEST resolved by:",
+      "options": [
+        "Cleaning/replacing the filter and ensuring ventilation",
+        "Enabling WEP",
+        "Disabling DNS",
+        "Installing more RAM in the projector"
+      ],
+      "a": 0,
+      "e": "Overheating from blocked airflow is a common projector fault."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.4",
+      "q": "A phone will not charge with any cable. Other phones charge with the same cables. What is MOST likely?",
+      "options": [
+        "Failed DHCP server",
+        "Dead RAID controller",
+        "Damaged charge port or phone power circuit",
+        "Wrong T568B pinout"
+      ],
+      "a": 2,
+      "e": "If cables work on other devices, the phone port/hardware is suspect."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.5",
+      "q": "High latency and jitter are degrading VoIP quality. Which of the following is a likely contributor?",
+      "options": [
+        "Network congestion or poor wireless signal",
+        "Failed CMOS battery only",
+        "Incorrect RAM timings only",
+        "Wrong printer driver"
+      ],
+      "a": 0,
+      "e": "VoIP is sensitive to latency, jitter, and loss."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.6",
+      "q": "An inkjet printer produces missing lines in output. Which maintenance action is MOST appropriate?",
+      "options": [
+        "Replace the CPU",
+        "Run nozzle check/clean cycle and check ink levels",
+        "Disable HTTPS",
+        "Re-terminate all patch panels"
+      ],
+      "a": 1,
+      "e": "Clogged nozzles and low ink cause banding/missing lines on inkjets."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "A technician needs to attach an RJ-45 connector to a Cat6 cable. Which tool is REQUIRED?",
+      "options": [
+        "Punchdown tool only",
+        "Wi-Fi analyzer",
+        "Crimper",
+        "Toner probe"
+      ],
+      "a": 2,
+      "e": "A crimper attaches modular connectors like RJ-45 to cable."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "Which tool is BEST for locating a specific cable in a large bundle behind a wall plate?",
+      "options": [
+        "Crimper",
+        "Toner probe",
+        "Loopback plug",
+        "POST card"
+      ],
+      "a": 1,
+      "e": "Toner probe traces cables with an audible tone."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "A technician is terminating wires on a 110 patch panel. Which tool seats the conductors?",
+      "options": [
+        "Multimeter only",
+        "Loopback plug",
+        "Punchdown tool",
+        "Cable tester"
+      ],
+      "a": 2,
+      "e": "Punchdown tools seat wires into IDC terminals."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "Which tool can confirm that all eight conductors in an Ethernet cable are correctly mapped?",
+      "options": [
+        "POST card",
+        "Cable tester",
+        "Toner only",
+        "Crimper only"
+      ],
+      "a": 1,
+      "e": "Cable testers verify wire maps, opens, and shorts."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "A NIC has no link light. Which tool can help test the port by looping TX to RX?",
+      "options": [
+        "Wi-Fi analyzer",
+        "Punchdown tool",
+        "Cable stripper",
+        "Loopback plug"
+      ],
+      "a": 3,
+      "e": "Loopback plugs test port hardware by returning transmitted signals."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "Overlapping Wi-Fi channels are suspected. Which tool BEST identifies channel usage?",
+      "options": [
+        "Crimper",
+        "Wi-Fi analyzer",
+        "Punchdown tool",
+        "Loopback plug"
+      ],
+      "a": 1,
+      "e": "Wi-Fi analyzers show channels, SSIDs, and signal levels."
+    },
+    {
+      "d": "hardware",
+      "obj": "5.1",
+      "q": "A system will not POST and has no beep codes. Which tool can display diagnostic codes?",
+      "options": [
+        "Toner probe",
+        "Cable stripper",
+        "POST card",
+        "Crimper"
+      ],
+      "a": 2,
+      "e": "POST cards display BIOS checkpoint codes during startup."
+    },
+    {
+      "d": "hardware",
+      "obj": "5.1",
+      "q": "A technician needs to verify 12V on a PSU rail. Which tool is MOST appropriate?",
+      "options": [
+        "Punchdown tool",
+        "Loopback plug",
+        "Wi-Fi analyzer",
+        "Multimeter"
+      ],
+      "a": 3,
+      "e": "A multimeter measures voltage, resistance, and continuity."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.6",
+      "q": "A GPU lists two 8-pin PCIe power connectors. Approximately how much extra power can those cables supply beyond the slot?",
+      "options": [
+        "25W total",
+        "About 300W combined (150W each)",
+        "600W from cables alone with 6-pin only",
+        "75W total"
+      ],
+      "a": 1,
+      "e": "PCIe 8-pin ≈ 150W each; dual 8-pin ≈ 300W from cables plus up to 75W from the slot."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.6",
+      "q": "Which color wire on ATX power is +12V?",
+      "options": [
+        "Black",
+        "Yellow",
+        "Red",
+        "Orange"
+      ],
+      "a": 1,
+      "e": "Yellow = +12V, Red = +5V, Orange = +3.3V, Black = ground."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.6",
+      "q": "A build has a 350W GPU (TDP) and a 125W CPU. Which PSU wattage is the MOST reasonable minimum with headroom?",
+      "options": [
+        "300W",
+        "650W–750W",
+        "150W",
+        "400W"
+      ],
+      "a": 1,
+      "e": "~475W combined load plus board/drives and 20–30% headroom points to a 650W+ unit."
+    },
+    {
+      "d": "network",
+      "obj": "2.7",
+      "q": "What is the maximum supported channel length for 1000BASE-T over copper?",
+      "options": [
+        "1000 meters",
+        "10 meters",
+        "100 meters",
+        "55 meters"
+      ],
+      "a": 2,
+      "e": "Twisted-pair Ethernet channel length is 100m including patch cords."
+    },
+    {
+      "d": "network",
+      "obj": "2.7",
+      "q": "Cat6 can support 10 Gbps to approximately which distance under typical conditions?",
+      "options": [
+        "100m always",
+        "10m only",
+        "About 55m",
+        "500m"
+      ],
+      "a": 2,
+      "e": "Cat6 is commonly cited around 55m for 10G; Cat6a reaches 100m at 10G."
+    },
+    {
+      "d": "network",
+      "obj": "2.2",
+      "q": "How many non-overlapping 20 MHz channels exist in 2.4 GHz in the US for 802.11?",
+      "options": [
+        "24",
+        "3 (1, 6, and 11)",
+        "1",
+        "11"
+      ],
+      "a": 1,
+      "e": "Channels 1, 6, and 11 are the standard non-overlapping set in the US."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.4",
+      "q": "SATA III has a theoretical maximum of:",
+      "options": [
+        "6 Gbps",
+        "32 Gbps",
+        "1.5 Gbps",
+        "3 Gbps"
+      ],
+      "a": 0,
+      "e": "SATA revision 3.x is 6 Gbps (~600 MB/s interface cap)."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.4",
+      "q": "An NVMe drive in a PCIe 3.0 x4 slot has an approximate bandwidth ceiling of:",
+      "options": [
+        "~100 MB/s",
+        "Same as USB 2.0",
+        "~600 MB/s",
+        "~3.5–4 GB/s"
+      ],
+      "a": 3,
+      "e": "PCIe 3.0 x4 is roughly 4 GB/s raw; real NVMe Gen3 drives peak near 3.5 GB/s."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.3",
+      "q": "A technician is upgrading a system from DDR4 to DDR5. Which statement is correct?",
+      "options": [
+        "DDR5 can be installed in a DDR4 DIMM slot when the speed ratings match.",
+        "DDR4 and DDR5 use the same keying, so compatibility depends only on the motherboard BIOS.",
+        "DDR4 and DDR5 are not interchangeable; the motherboard must support the correct memory generation.",
+        "DDR5 is backward compatible with DDR4 slots as long as the voltage is manually adjusted."
+      ],
+      "a": 2,
+      "e": "DDR4 and DDR5 are not interchangeable. They use different keying and electrical characteristics, so the motherboard and memory must support the same DDR generation."
+    },
+    {
+      "d": "network",
+      "obj": "2.1",
+      "q": "A firewall must allow DHCP clients to obtain leases. Which ports are involved?",
+      "options": [
+        "UDP 53 only",
+        "TCP 22 only",
+        "UDP 67 and 68",
+        "TCP 80/443"
+      ],
+      "a": 2,
+      "e": "DHCP uses UDP 67 (server) and 68 (client)."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.2",
+      "q": "Which cable jacket rating is required in plenum air-handling spaces?",
+      "options": [
+        "None",
+        "CM/PVC",
+        "USB-only rated",
+        "CMP (plenum)"
+      ],
+      "a": 3,
+      "e": "Plenum-rated (CMP) cable is required in many air-handling spaces by fire code."
+    },
+    {
+      "d": "network",
+      "obj": "2.4",
+      "q": "A host has IP 169.254.83.10. What does this indicate about DHCP?",
+      "options": [
+        "Public routable IP",
+        "Lease succeeded",
+        "IPv6 only",
+        "DHCP failed; APIPA address assigned"
+      ],
+      "a": 3,
+      "e": "169.254/16 is Automatic Private IP Addressing."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.6",
+      "q": "A 6-pin PCIe power connector is rated to deliver approximately:",
+      "options": [
+        "25W",
+        "150W",
+        "300W",
+        "75W"
+      ],
+      "a": 3,
+      "e": "6-pin PCIe ≈ 75W; 8-pin ≈ 150W."
+    },
+    {
+      "d": "cloud",
+      "obj": "4.1",
+      "q": "A Type 1 hypervisor differs from Type 2 in that it:",
+      "options": [
+        "Requires SaaS",
+        "Only runs on laptops",
+        "Runs directly on hardware without a host OS",
+        "Cannot allocate vCPU"
+      ],
+      "a": 2,
+      "e": "Type 1 is bare-metal; Type 2 rides on a host OS."
+    },
+    {
+      "d": "network",
+      "obj": "2.2",
+      "q": "Which band generally provides the longest range but the most interference from household devices?",
+      "options": [
+        "2.4 GHz",
+        "6 GHz",
+        "60 GHz only",
+        "5 GHz"
+      ],
+      "a": 0,
+      "e": "2.4 GHz travels farther but shares spectrum with microwaves, Bluetooth, etc."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.1",
+      "q": "A laptop screen is dim and the image is barely visible even at max brightness. An external monitor works fine. Which component is MOST likely failing?",
+      "options": [
+        "GPU only",
+        "Inverter or LED backlight / display assembly",
+        "CMOS battery",
+        "Wi-Fi card"
+      ],
+      "a": 1,
+      "e": "If external video works, the internal display path (backlight, inverter on older CCFL, or the panel itself) is the primary suspect."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.1",
+      "q": "Which laptop component is typically NOT field-replaceable without major disassembly on modern ultrabooks?",
+      "options": [
+        "M.2 SSD",
+        "SO-DIMM RAM (when socketed)",
+        "Soldered system-on-chip / CPU",
+        "Battery (when modular)"
+      ],
+      "a": 2,
+      "e": "Many modern thin laptops solder the CPU/SoC; RAM and storage may also be soldered on the thinnest models."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.1",
+      "q": "A technician replaces a laptop keyboard and now the trackpad does not respond. What should be checked FIRST?",
+      "options": [
+        "Reimage the OS",
+        "Trackpad cable / ribbon seating and FN lock state",
+        "Replace the motherboard",
+        "Update GPU drivers only"
+      ],
+      "a": 1,
+      "e": "Keyboards and trackpads often share ribbon cables or connectors that can be left unseated during keyboard service."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.2",
+      "q": "Which accessory provides both power delivery and high-speed data over a single cable on modern phones and laptops?",
+      "options": [
+        "USB-A 2.0 only",
+        "USB-C with Power Delivery / Thunderbolt where supported",
+        "VGA dongle",
+        "RJ-45 only"
+      ],
+      "a": 1,
+      "e": "USB-C with PD (and optional Thunderbolt/USB4) carries power and high-bandwidth data on one connector."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.2",
+      "q": "A user needs to project a phone screen to a conference room display that only has HDMI. Which is the MOST appropriate solution?",
+      "options": [
+        "USB-C to HDMI adapter or dock (if phone supports DisplayPort Alt Mode)",
+        "SATA to HDMI",
+        "PCIe riser",
+        "T568B crossover"
+      ],
+      "a": 0,
+      "e": "Many phones support video out via USB-C DisplayPort Alt Mode or wireless casting; a USB-C to HDMI adapter is the common wired path."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.3",
+      "q": "Which protocol is commonly used for contactless payments and short-range device pairing on smartphones?",
+      "options": [
+        "NFC",
+        "802.11b only",
+        "SATA",
+        "IMAP"
+      ],
+      "a": 0,
+      "e": "NFC is designed for very short-range interactions such as payments and quick pairing."
+    },
+    {
+      "d": "mobile",
+      "obj": "1.3",
+      "q": "A corporate phone will not join the office Wi-Fi that requires 802.1X. Home Wi-Fi works. What is the MOST likely missing piece?",
+      "options": [
+        "Correct enterprise EAP profile / credentials",
+        "RAID configuration on the phone",
+        "HDMI enabled",
+        "APIPA forced on"
+      ],
+      "a": 0,
+      "e": "Enterprise SSIDs usually need an EAP method and credentials pushed by MDM or configured manually."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.1",
+      "q": "A PC powers on, fans spin, but there are no beep codes and no video. Which tool helps isolate POST failures?",
+      "options": [
+        "POST card / diagnostic card",
+        "Toner probe",
+        "Cable certifier only",
+        "Optical power meter"
+      ],
+      "a": 0,
+      "e": "A POST diagnostic card can report codes when the system fails before video is available."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.1",
+      "q": "Intermittent random reboots under load with no BSOD. Temperatures are high. What is the BEST first action?",
+      "options": [
+        "Replace the motherboard immediately",
+        "Clean dust, reseat cooler, verify thermal paste and fan curves",
+        "Disable Secure Boot only",
+        "Format the SSD"
+      ],
+      "a": 1,
+      "e": "Thermal issues commonly cause reboots under load; cooling path is the first practical check."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.1",
+      "q": "One stick of RAM tested alone works in slot A but fails in slot B. What does this indicate?",
+      "options": [
+        "The RAM stick is bad",
+        "The motherboard slot or channel is faulty",
+        "The PSU is underpowered only",
+        "The CPU is soldered wrong"
+      ],
+      "a": 1,
+      "e": "If the same module works in one slot and fails in another, the slot/channel is suspect."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.2",
+      "q": "A RAID 5 array with three disks reports one failed drive. Data is still accessible. What is the state?",
+      "options": [
+        "Degraded but operational",
+        "Completely offline with total data loss",
+        "Converted to RAID 0 automatically",
+        "Mirrored only"
+      ],
+      "a": 0,
+      "e": "RAID 5 can survive one disk failure in a degraded state until the failed disk is replaced and rebuilt."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.2",
+      "q": "After replacing a failed disk in RAID 1, the array status shows 'rebuilding'. What does this mean?",
+      "options": [
+        "Data is being copied to restore the mirror",
+        "The controller is erasing both disks",
+        "RAID level is changing to 0",
+        "The OS must be reinstalled"
+      ],
+      "a": 0,
+      "e": "Rebuild copies data from the healthy mirror member onto the replacement disk."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.2",
+      "q": "S.M.A.R.T. reports increasing reallocated sectors on an HDD. What should the technician recommend?",
+      "options": [
+        "Ignore until total failure",
+        "Backup immediately and plan replacement",
+        "Defragment only",
+        "Switch to RAID 0 for speed"
+      ],
+      "a": 1,
+      "e": "Rising reallocated sectors are a classic early failure indicator; backup and replace."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.3",
+      "q": "A projector shows a faint image even when the input is correct and the lamp hours are low. Which is a common cause?",
+      "options": [
+        "Dirty lens or clogged filters / failing lamp path",
+        "Wrong SATA cable",
+        "APIPA on the projector",
+        "RAID rebuild"
+      ],
+      "a": 0,
+      "e": "Projectors often dim due to dirty optics, blocked airflow, or aging lamp even before the rated hour limit."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.3",
+      "q": "Desktop video is fine on one monitor but a second DisplayPort monitor stays black. What should be checked FIRST?",
+      "options": [
+        "Cable, input source selection, and GPU multi-monitor settings",
+        "Replace the motherboard",
+        "Reinstall the OS",
+        "Change the power supply wattage only"
+      ],
+      "a": 1,
+      "e": "Second-display issues are most often cable, input selection, or multi-monitor configuration."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.4",
+      "q": "A phone overheats and throttles during normal use after a battery replacement with a third-party cell. What is MOST likely?",
+      "options": [
+        "Incompatible or poor-quality battery / connection",
+        "Failed NFC only",
+        "Wrong T568B pinout",
+        "Missing DHCP reservation"
+      ],
+      "a": 0,
+      "e": "Aftermarket batteries with incorrect specs or poor thermal contact commonly cause heat and throttling."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.4",
+      "q": "A laptop intermittently disconnects from Wi-Fi when the lid angle changes. Wired Ethernet is stable. What is the MOST likely cause?",
+      "options": [
+        "Damaged antenna cable in the hinge path",
+        "Failed DHCP server only",
+        "Bad RAID controller",
+        "Incorrect APIPA"
+      ],
+      "a": 0,
+      "e": "Wi-Fi antenna wires run through the hinge; flex damage causes angle-dependent wireless dropouts."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.5",
+      "q": "Users report slow file transfers on a wired LAN. Link lights show 100 Mbps on a gigabit switch. What is a likely cause?",
+      "options": [
+        "Bad cable / only two pairs negotiating, or duplex mismatch",
+        "Correct Cat6a and full duplex",
+        "IPv6-only mode",
+        "Too many DNS A records"
+      ],
+      "a": 0,
+      "e": "100 Mbps when gigabit is expected often means a damaged cable, wrong standard, or negotiation problem."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.5",
+      "q": "A workstation has IP 169.254.12.40 and cannot reach the internet. What is the FIRST service to verify?",
+      "options": [
+        "DHCP server reachability and scope",
+        "DNS root hints only",
+        "SMTP relay",
+        "RAID rebuild status"
+      ],
+      "a": 0,
+      "e": "APIPA means DHCP failed; check the DHCP path first."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.6",
+      "q": "A laser printer produces pages with a repeated mark every few inches. What is the MOST likely cause?",
+      "options": [
+        "Defective drum or roller with a fixed circumference defect",
+        "Empty toner only",
+        "Wrong paper size in driver",
+        "Network cable unplugged"
+      ],
+      "a": 0,
+      "e": "Repeating marks at a consistent interval usually match the circumference of a drum or roller."
+    },
+    {
+      "d": "trouble",
+      "obj": "5.6",
+      "q": "Print jobs spool but never leave the queue on a networked printer. Other users can print. What should be checked on this PC FIRST?",
+      "options": [
+        "Print spooler service, driver, and connectivity to the print queue",
+        "Replace the printer fuser",
+        "Rebuild RAID on the client",
+        "Change the default gateway only"
+      ],
+      "a": 0,
+      "e": "A single client that cannot print while others succeed points to local spooler, driver, or path issues."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.4",
+      "q": "Which RAID level provides striping with no parity or mirroring?",
+      "options": [
+        "RAID 0",
+        "RAID 1",
+        "RAID 5",
+        "RAID 10"
+      ],
+      "a": 0,
+      "e": "RAID 0 is pure striping with zero redundancy."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.4",
+      "q": "What is the minimum number of disks required for RAID 5?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "a": 1,
+      "e": "RAID 5 needs at least three disks for data + distributed parity."
+    },
+    {
+      "d": "hardware",
+      "obj": "3.4",
+      "q": "RAID 10 requires a minimum of how many disks?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "a": 2,
+      "e": "RAID 10 is a stripe of mirrors and needs at least four disks."
+    },
+    {
+      "d": "network",
+      "obj": "2.8",
+      "q": "Which tool injects a tone onto a cable so a probe can locate the other end in a bundle?",
+      "options": [
+        "Toner probe",
+        "Crimper",
+        "Punchdown tool",
+        "Loopback plug"
+      ],
+      "a": 0,
+      "e": "A tone generator and inductive probe (toner probe) are used to trace cables."
+    }
+  ],
+  "matchData": [
+    {
+      "left": "24-pin ATX",
+      "right": "Motherboard main power"
+    },
+    {
+      "left": "8-pin CPU (EPS)",
+      "right": "Processor dedicated power"
+    },
+    {
+      "left": "PCIe 8-pin",
+      "right": "~150W GPU supplemental power"
+    },
+    {
+      "left": "PCIe 6-pin",
+      "right": "~75W GPU supplemental power"
+    },
+    {
+      "left": "SATA power",
+      "right": "15-pin drive power"
+    },
+    {
+      "left": "Port 443",
+      "right": "HTTPS"
+    },
+    {
+      "left": "Port 22",
+      "right": "SSH"
+    },
+    {
+      "left": "Port 53",
+      "right": "DNS"
+    },
+    {
+      "left": "Port 3389",
+      "right": "RDP"
+    },
+    {
+      "left": "Port 67/68",
+      "right": "DHCP"
+    },
+    {
+      "left": "Port 445",
+      "right": "SMB file sharing"
+    },
+    {
+      "left": "169.254.x.x",
+      "right": "APIPA (DHCP failed)"
+    },
+    {
+      "left": "RAID 1",
+      "right": "Mirroring"
+    },
+    {
+      "left": "RAID 0",
+      "right": "Striping only"
+    },
+    {
+      "left": "RAID 5",
+      "right": "Stripe + parity (n-1)"
+    },
+    {
+      "left": "LGA 1700",
+      "right": "Intel 12th–14th gen socket"
+    },
+    {
+      "left": "AM5",
+      "right": "AMD Ryzen 7000/9000 socket"
+    },
+    {
+      "left": "WPA3",
+      "right": "Modern Wi-Fi encryption"
+    },
+    {
+      "left": "Type 1 hypervisor",
+      "right": "Bare-metal virtualization"
+    },
+    {
+      "left": "IaaS",
+      "right": "VMs, storage, networks"
+    },
+    {
+      "left": "SaaS",
+      "right": "Full cloud applications"
+    },
+    {
+      "left": "Fuser",
+      "right": "Bonds toner to paper"
+    },
+    {
+      "left": "Toner probe",
+      "right": "Traces cables in walls"
+    },
+    {
+      "left": "Punchdown tool",
+      "right": "Seats wires on panels"
+    },
+    {
+      "left": "Loopback plug",
+      "right": "Tests a network port"
+    },
+    {
+      "left": "Crimper",
+      "right": "Attaches RJ-45 plugs"
+    },
+    {
+      "left": "Cat6a",
+      "right": "10 Gbps to 100 meters"
+    },
+    {
+      "left": "Plenum (CMP)",
+      "right": "Air-handling space cable"
+    }
+  ],
+  "hardwareCards": [
+    {
+      "title": "CPUs & Sockets",
+      "detail": "• LGA 1700 → Intel 12th–14th gen desktop\n• AM5 → Ryzen 7000 / 9000 (pins on CPU — protect them)\n• Match socket, cooler bracket, and BIOS support\n• Check TDP vs cooler capacity before upgrading\n• Update BIOS if the board shipped before the CPU existed"
+    },
+    {
+      "title": "Motherboards",
+      "detail": "• Form factors: ATX, Micro-ATX, Mini-ITX (must fit case)\n• Chipset sets CPU, RAM, PCIe, and storage limits\n• Confirm M.2 keying: NVMe (M-key) vs SATA (B-key)\n• Note fan headers, USB headers, and front-panel pins\n• Standoffs must align — no shorting the board to the tray"
+    },
+    {
+      "title": "Memory (RAM)",
+      "detail": "• DDR4 ≠ DDR5 — different notch, voltage, protocol\n• Dual-channel: matched pairs in the correct slots (often 2nd & 4th)\n• Speed = highest mutually supported by CPU + board + kit\n• ECC mainly for servers/workstations\n• Reseat and try one stick when diagnosing crashes"
+    },
+    {
+      "title": "Power Supplies",
+      "detail": "• 24-pin board · 8-pin (or 4+4) CPU · PCIe 6/8 GPU\n• Size: GPU TDP + CPU TDP + ~100W + 20–30% headroom\n• Rails: Yellow +12V · Red +5V · Orange +3.3V · Black ground\n• 80 Plus Bronze/Silver/Gold/Platinum/Titanium efficiency\n• Modular cables reduce clutter; never force a connector"
+    },
+    {
+      "title": "Storage",
+      "detail": "• SATA III ≈ 6 Gbps (~550 MB/s real-world ceiling)\n• NVMe uses PCIe (Gen3/Gen4 x4 much faster)\n• M.2 2280 most common; confirm slot type and length\n• RAID 0 stripe (no safety) · RAID 1 mirror · RAID 5 parity (n−1)\n• S.M.A.R.T. warnings → back up and replace soon"
+    },
+    {
+      "title": "GPUs & Expansion",
+      "detail": "• Primary GPU in top PCIe x16 slot when possible\n• 6-pin ≈ 75W · 8-pin ≈ 150W extra (plus ~75W from slot)\n• Confirm case length, slot width, and PSU connectors\n• Never force a card; check retention latch\n• External display OK but internal black → cable/backlight"
+    },
+    {
+      "title": "Displays",
+      "detail": "• IPS = color/angles · TN = cheap/fast · OLED = true black\n• Note native resolution + refresh rate (Hz)\n• HDMI and DisplayPort are digital; VGA is legacy analog\n• Laptop: reseat display ribbons after screen work\n• Dead pixels = panel; wrong colors = cable/profile/GPU"
+    },
+    {
+      "title": "Printers (laser)",
+      "detail": "• Process: processing → charging → exposing → developing → transferring → fusing → cleaning\n• Streaks/spots often → drum or toner\n• Smear / toner rubs off → fuser\n• Duplex-only jams → duplexer path\n• Match PCL vs PostScript drivers to OS and apps"
+    }
+  ],
+  "powerCards": [
+    {
+      "title": "24-pin ATX",
+      "detail": "• Main motherboard power from the PSU\n• Carries +3.3V, +5V, +12V, 5VSB, and grounds\n• Modern boards use 24-pin (older 20-pin exists)\n• Seat until the retention latch clicks\n• Never force a keyed connector the wrong way"
+    },
+    {
+      "title": "8-pin CPU / EPS",
+      "detail": "• Dedicated CPU power rail from the PSU\n• Often split as 4+4 for flexibility\n• High-end boards may need dual CPU power plugs\n• Missing this → many systems will not POST\n• Undersized CPU power → instability under load"
+    },
+    {
+      "title": "PCIe 6/8-pin",
+      "detail": "• 6-pin ≈ 75W extra to the GPU\n• 8-pin ≈ 150W extra\n• PCIe slot itself can supply up to ~75W\n• Use proper PSU cables; avoid weak adapters when possible\n• Newer cards may use 12VHPWR / 12V-2x6"
+    },
+    {
+      "title": "SATA Power",
+      "detail": "• 15-pin power connector for drives\n• Separate from the 7-pin SATA data cable\n• Rails include +12V, +5V, and +3.3V\n• Orange +3.3V often unused by modern SSDs\n• Daisy-chains common on non-modular PSUs"
+    },
+    {
+      "title": "Molex",
+      "detail": "• Legacy 4-pin peripheral connector\n• +5V (red) and +12V (yellow) with grounds\n• Fans, pumps, older drives, adapters\n• Not used for modern motherboard main power\n• Still appears in adapter kits and cases"
+    }
+  ],
+  "dataCards": [
+    {
+      "title": "SATA Data",
+      "detail": "• 7-pin L-shaped data connector\n• Used for HDD, SATA SSD, optical drives\n• Hot-plug support depends on board/OS\n• Keep cables tidy for airflow\n• A failed cable can look like a failed drive"
+    },
+    {
+      "title": "USB family",
+      "detail": "• Type-A host ports · Type-B on many printers\n• USB-C reversible; may carry data + video + power\n• USB 2.0 vs 3.x speeds differ sharply\n• Not every USB-C cable supports all features\n• Know minimum versions for your device needs"
+    },
+    {
+      "title": "HDMI",
+      "detail": "• Digital video + audio on one cable\n• Common on TVs, monitors, GPUs, laptops\n• Not a network cable — do not confuse with Ethernet\n• Versions affect max resolution/refresh\n• Secure latch variants exist on some gear"
+    },
+    {
+      "title": "DisplayPort",
+      "detail": "• Digital video common on PC GPUs\n• Angled corner shape vs HDMI’s trapezoid\n• Strong high-refresh and multi-stream support\n• DP to HDMI adapters are common\n• Check GPU output labels when “no signal”"
+    },
+    {
+      "title": "VGA",
+      "detail": "• Legacy analog video (often blue connector)\n• Prefer HDMI/DP for new installs\n• Noise and blur more common on long runs\n• Still appears on projectors and old displays\n• Thumbscrews prevent accidental disconnect"
+    },
+    {
+      "title": "RJ-45 / RJ-11",
+      "detail": "• RJ-45 = 8-conductor Ethernet\n• RJ-11 = smaller phone connector\n• Terminate Ethernet with T568A or T568B\n• Same standard both ends = straight-through\n• Crimp quality matters — test every cable"
+    }
+  ],
+  "networkCards": [
+    {
+      "title": "Key ports",
+      "detail": "• 22 SSH · 23 Telnet · 25 SMTP\n• 53 DNS · 67/68 DHCP\n• 80 HTTP · 443 HTTPS\n• 110 POP3 · 143 IMAP · 389 LDAP\n• 445 SMB · 3389 RDP\n• Memorize these cold — they appear constantly"
+    },
+    {
+      "title": "TCP vs UDP",
+      "detail": "• TCP = reliable, ordered, connection-oriented\n• UDP = low latency, connectionless\n• TCP: web, SSH, RDP, email\n• UDP: VoIP, games, many DNS queries, streams\n• Pick UDP when speed matters more than perfect delivery"
+    },
+    {
+      "title": "Wireless",
+      "detail": "• 2.4 GHz: longer range, more interference (channels 1/6/11)\n• 5 GHz: more channels, less range, less interference\n• 6 GHz: Wi-Fi 6E — newest clients, cleaner spectrum\n• Prefer WPA3-Personal; WPA2 for legacy only; never WEP\n• Enterprise Wi-Fi often uses 802.1X / EAP"
+    },
+    {
+      "title": "SOHO router",
+      "detail": "• Change default admin password immediately\n• WPA3 + strong passphrase on Wi-Fi\n• DHCP on correct LAN subnet; reservations for printers\n• Guest network for visitors\n• Port-forward only what you must; document rules"
+    },
+    {
+      "title": "Devices",
+      "detail": "• Switch = MAC addresses / Layer 2\n• Router = IP networks + broadcast domains / Layer 3\n• Access point = wireless client access\n• Firewall = allow/deny policy\n• PoE = power + data for APs, cameras, phones\n• ONT = fiber handoff from the ISP"
+    },
+    {
+      "title": "Cables & distance",
+      "detail": "• Copper Ethernet channel: 100 meters max (includes patches)\n• Cat5e: 1 Gbps to 100 m · Cat6: 10G ~55 m · Cat6a: 10G to 100 m\n• T568B common in the US — match both ends for straight-through\n• Plenum (CMP) jacket in air-handling spaces\n• Beyond 100 m copper → use fiber"
+    },
+    {
+      "title": "IP & DNS",
+      "detail": "• DHCP DORA: Discover → Offer → Request → Ack\n• DHCP fail → APIPA 169.254.x.x (isolated)\n• A = IPv4 · AAAA = IPv6 · MX = mail · CNAME = alias\n• IP works but name fails → DNS problem\n• Gateway wrong → no path off the LAN"
+    },
+    {
+      "title": "Tools",
+      "detail": "• Crimper → RJ-45/RJ-11 ends on patch cables\n• Punchdown → patch panels and keystone jacks\n• Cable tester → wire map, opens, shorts\n• Toner probe → trace a cable through walls\n• Loopback → test NIC or switch port hardware\n• Wi-Fi analyzer → channels, overlap, signal"
+    }
+  ],
+  "mobileCards": [
+    {
+      "title": "Hardware replace",
+      "detail": "• Common FRUs: battery, display, storage, Wi-Fi card, keyboard\n• Disconnect or isolate battery before internal work\n• After screen jobs: reseat every display ribbon\n• Touch dead but external OK → digitizer or cable\n• Swollen battery → stop using, replace safely, do not puncture"
+    },
+    {
+      "title": "Connectors & docks",
+      "detail": "• USB-C may carry data, video, and power — depends on cable + device\n• Thunderbolt docks: multi-display + high bandwidth\n• NFC: short-range payments and pairing\n• Bluetooth: headsets, keyboards, mice\n• Not every USB-C cable supports video or full Power Delivery"
+    },
+    {
+      "title": "Cellular & hotspot",
+      "detail": "• Physical SIM and/or eSIM profiles\n• Hotspot shares cellular data to other devices\n• Clients online but no internet → check cellular data/cap/APN\n• Airplane mode disables radios (you can re-enable Wi-Fi)\n• Roaming and data caps cause “mysterious” outages"
+    },
+    {
+      "title": "Mobile networking",
+      "detail": "• Enterprise Wi-Fi often needs 802.1X / EAP credentials\n• MDM pushes Wi-Fi, VPN, email, and security profiles\n• VPN protects traffic on open networks\n• IMAP vs POP3: IMAP keeps mail on server; POP often downloads off\n• Know when to reset network settings vs replace hardware"
+    },
+    {
+      "title": "Symptoms & safety",
+      "detail": "• Ghost touch → digitizer or screen assembly\n• No charge → try known-good cable and brick first\n• Liquid damage → power off, inspect for corrosion\n• Overheating → check apps, case, battery health\n• Always use ESD-safe practices on internal repairs"
+    }
+  ],
+  "cloudCards": [
+    {
+      "title": "Type 1 hypervisor",
+      "detail": "• Bare-metal: runs on hardware (no host desktop OS)\n• Examples: VMware ESXi, Microsoft Hyper-V Server, Xen\n• Datacenter standard for performance and isolation\n• Manages CPU, RAM, storage, and network for VMs"
+    },
+    {
+      "title": "Type 2 hypervisor",
+      "detail": "• Hosted on top of a full OS (Windows, macOS, Linux)\n• Examples: VMware Workstation, VirtualBox, Parallels\n• Great for labs and desktops; slightly more overhead\n• Host OS failure can take guests down"
+    },
+    {
+      "title": "VDI",
+      "detail": "• Virtual Desktop Infrastructure — desktops run in the datacenter\n• Streamed to thin or thick clients\n• Broker/hosts down → thin clients show nothing useful\n• Centralizes updates, security, and backups"
+    },
+    {
+      "title": "IaaS",
+      "detail": "• Infrastructure as a Service: VMs, storage, virtual networks\n• You manage OS, middleware, and apps\n• Provider manages hardware and virtualization fabric\n• Example mindset: “I rent the machines”"
+    },
+    {
+      "title": "PaaS",
+      "detail": "• Platform as a Service: managed runtime and tools\n• Deploy apps without babysitting servers\n• Provider handles OS and much of the stack\n• Example mindset: “I deploy the app”"
+    },
+    {
+      "title": "SaaS",
+      "detail": "• Software as a Service: full apps (email, Office, CRM)\n• Browser or light client — provider manages almost everything\n• Example mindset: “I just log in”\n• Patching and uptime largely the vendor’s job"
+    },
+    {
+      "title": "Cloud traits",
+      "detail": "• Rapid elasticity — scale out/in with demand\n• Measured service — metered billing\n• Resource pooling — multi-tenant hardware\n• Broad network access — reach services over the network\n• On-demand self-service — provision without tickets"
+    }
+  ],
+  "troubleCards": [
+    {
+      "title": "POST & no boot",
+      "detail": "• POST checks hardware before the OS loads\n• Beeps / POST codes → RAM, video, CPU, board\n• Fans spin, no video → reseat RAM and GPU first\n• Burning smell or smoke → power off immediately\n• Clear CMOS if settings or overclock went wrong"
+    },
+    {
+      "title": "RAM & CPU",
+      "detail": "• Random crashes under load → memory or thermals\n• Try one stick at a time; reseat firmly\n• Check cooler mount, thermal paste, and dust\n• CPU overheat → throttle or shutdown\n• Memtest-style tools help confirm bad RAM"
+    },
+    {
+      "title": "Drives & RAID",
+      "detail": "• Clicking HDD → back up now, replace drive\n• S.M.A.R.T. warning → plan replacement before failure\n• RAID 0: one disk fails = all data gone\n• RAID 5: replace failed disk and rebuild ASAP\n• Loose SATA power/data cables mimic “dead drive”"
+    },
+    {
+      "title": "Video & displays",
+      "detail": "• External OK, internal black → cable, inverter, or backlight\n• Fuzzy projector → focus, input source, resolution\n• Dead pixels → panel replacement\n• Wrong colors → cable, color profile, GPU\n• No signal → input selection, cable, GPU output"
+    },
+    {
+      "title": "Network symptoms",
+      "detail": "• 169.254.x.x → DHCP failed (APIPA)\n• No link light → cable, NIC, or switch port\n• Wi-Fi drops near microwave → 2.4 GHz interference\n• Port flapping → bad cable or bad port\n• IP works, names fail → DNS"
+    },
+    {
+      "title": "Printer defects",
+      "detail": "• Streaks / repeating marks → drum or toner\n• Smear / rubs off → fuser not bonding toner\n• Duplex-only jam → duplexer path\n• Inkjet bands → clean nozzles / check heads\n• Wrong driver (PCL vs PS) causes garbage output"
+    },
+    {
+      "title": "Mobile issues",
+      "detail": "• Swollen battery → replace; do not crush or puncture\n• Ghost touches → digitizer/screen assembly\n• After screen swap → reseat ribbons before replacing parts again\n• Slow charge → known-good cable and adapter first\n• Overheat + shutdown → battery or thermal path"
+    },
+    {
+      "title": "Methodology",
+      "detail": "1. Identify the problem\n2. Establish a theory of probable cause\n3. Test the theory\n4. Establish a plan of action and implement\n5. Verify full functionality\n6. Document findings\n• Change one variable at a time"
+    }
+  ],
+  "OBJECTIVES": [
+    {
+      "id": "1.1",
+      "domain": "mobile",
+      "name": "Monitor mobile hardware & replacement techniques"
+    },
+    {
+      "id": "1.2",
+      "domain": "mobile",
+      "name": "Mobile accessories & connectivity options"
+    },
+    {
+      "id": "1.3",
+      "domain": "mobile",
+      "name": "Mobile network connectivity & app support"
+    },
+    {
+      "id": "2.1",
+      "domain": "network",
+      "name": "TCP/UDP ports, protocols, and purposes"
+    },
+    {
+      "id": "2.2",
+      "domain": "network",
+      "name": "Wireless networking technologies"
+    },
+    {
+      "id": "2.3",
+      "domain": "network",
+      "name": "Services provided by networked hosts"
+    },
+    {
+      "id": "2.4",
+      "domain": "network",
+      "name": "Common network configuration concepts"
+    },
+    {
+      "id": "2.5",
+      "domain": "network",
+      "name": "Networking hardware devices"
+    },
+    {
+      "id": "2.6",
+      "domain": "network",
+      "name": "SOHO wired/wireless configuration"
+    },
+    {
+      "id": "2.7",
+      "domain": "network",
+      "name": "Internet connection types & network types"
+    },
+    {
+      "id": "2.8",
+      "domain": "network",
+      "name": "Networking tools and their purposes"
+    },
+    {
+      "id": "3.1",
+      "domain": "hardware",
+      "name": "Display components and attributes"
+    },
+    {
+      "id": "3.2",
+      "domain": "hardware",
+      "name": "Cable types, connectors, features"
+    },
+    {
+      "id": "3.3",
+      "domain": "hardware",
+      "name": "RAM characteristics"
+    },
+    {
+      "id": "3.4",
+      "domain": "hardware",
+      "name": "Storage devices"
+    },
+    {
+      "id": "3.5",
+      "domain": "hardware",
+      "name": "Install/configure motherboards, CPUs, add-on cards"
+    },
+    {
+      "id": "3.6",
+      "domain": "hardware",
+      "name": "Install the appropriate power supply"
+    },
+    {
+      "id": "3.7",
+      "domain": "hardware",
+      "name": "Deploy/configure multifunction devices/printers"
+    },
+    {
+      "id": "3.8",
+      "domain": "hardware",
+      "name": "Printer maintenance"
+    },
+    {
+      "id": "4.1",
+      "domain": "cloud",
+      "name": "Virtualization concepts"
+    },
+    {
+      "id": "4.2",
+      "domain": "cloud",
+      "name": "Cloud computing concepts"
+    },
+    {
+      "id": "5.1",
+      "domain": "trouble",
+      "name": "Troubleshoot motherboards, RAM, CPUs, power"
+    },
+    {
+      "id": "5.2",
+      "domain": "trouble",
+      "name": "Troubleshoot drives and RAID"
+    },
+    {
+      "id": "5.3",
+      "domain": "trouble",
+      "name": "Troubleshoot video, projector, display"
+    },
+    {
+      "id": "5.4",
+      "domain": "trouble",
+      "name": "Troubleshoot common mobile device issues"
+    },
+    {
+      "id": "5.5",
+      "domain": "trouble",
+      "name": "Troubleshoot network issues"
+    },
+    {
+      "id": "5.6",
+      "domain": "trouble",
+      "name": "Troubleshoot printer issues"
+    }
+  ],
+  "memoryCards": [
+    {
+      "cat": "ports",
+      "title": "22 SSH",
+      "detail": "• You're 22 — get a secure shell\n• SSH = encrypted remote login\n• Prefer over Telnet (23)"
+    },
+    {
+      "cat": "ports",
+      "title": "53 DNS",
+      "detail": "• 5-3: name to IP\n• DNS resolves hostnames\n• IP works, name fails → DNS"
+    },
+    {
+      "cat": "ports",
+      "title": "67 / 68 DHCP",
+      "detail": "• 67 offers, 68 takes the lease\n• Server 67 · Client 68\n• Fail → APIPA 169.254.x.x"
+    },
+    {
+      "cat": "ports",
+      "title": "80 vs 443",
+      "detail": "• 80 open road · 443 locked gate\n• HTTP cleartext vs HTTPS TLS\n• Always prefer 443"
+    },
+    {
+      "cat": "ports",
+      "title": "3389 RDP",
+      "detail": "• 33-89 remote desktop please\n• Windows Remote Desktop\n• Use strong auth / VPN"
+    },
+    {
+      "cat": "ports",
+      "title": "445 SMB",
+      "detail": "• 4-4-5 share the drive\n• Windows file & printer sharing\n• Don't expose to the internet"
+    },
+    {
+      "cat": "ports",
+      "title": "25 / 110 / 143",
+      "detail": "• 25 Send Mail · 110 POP off · 143 IMAP stays\n• SMTP send · POP download · IMAP sync\n• Know when mail leaves the server"
+    },
+    {
+      "cat": "power",
+      "title": "Wire colors",
+      "detail": "• Yellow 12 · Red 5 · Orange 3.3 · Black ground\n• +12V feeds CPU/GPU\n• Multimeter: yellow to black ≈ 12V"
+    },
+    {
+      "cat": "power",
+      "title": "PCIe watts",
+      "detail": "• 6-pin ≈ 75W · 8-pin ≈ 150W\n• Slot can add ~75W more\n• Match cables to the card"
+    },
+    {
+      "cat": "power",
+      "title": "PSU sizing",
+      "detail": "• GPU + CPU + ~100W, then +20–30%\n• Headroom prevents shutdowns\n• Quality > paper watts"
+    },
+    {
+      "cat": "power",
+      "title": "Main connectors",
+      "detail": "• 24-pin board · 8-pin CPU · PCIe GPU\n• Missing CPU power → no POST\n• Latch must click"
+    },
+    {
+      "cat": "storage",
+      "title": "RAID 0 / 1 / 5",
+      "detail": "• 0 = zero safety · 1 = mirror · 5 = parity\n• RAID 5 needs 3+ drives\n• RAID 0: one disk dies = all gone"
+    },
+    {
+      "cat": "storage",
+      "title": "SATA vs NVMe",
+      "detail": "• SATA = seatbelt · NVMe = rocket\n• SATA ~6 Gbps ceiling\n• M.2 slot may be either — check manual"
+    },
+    {
+      "cat": "storage",
+      "title": "DDR4 vs DDR5",
+      "detail": "• Different notch — they don't mix\n• Matched pairs for dual-channel\n• Speed = highest mutual support"
+    },
+    {
+      "cat": "network",
+      "title": "2.4 GHz channels",
+      "detail": "• 1-6-11 stay alive\n• Only non-overlapping set in the US\n• Microwaves thrash 2.4 GHz"
+    },
+    {
+      "cat": "network",
+      "title": "100 meter rule",
+      "detail": "• 100 steps then go fiber\n• Copper Ethernet channel max\n• Includes patch cords"
+    },
+    {
+      "cat": "network",
+      "title": "T568B",
+      "detail": "• B is common in the US\n• Same standard both ends = straight-through\n• Don't mix A and B by accident"
+    },
+    {
+      "cat": "network",
+      "title": "DHCP DORA",
+      "detail": "• DORA explores for an IP\n• Discover → Offer → Request → Ack\n• Always that order"
+    },
+    {
+      "cat": "network",
+      "title": "OSI pizza",
+      "detail": "• Please Do Not Throw Sausage Pizza Away\n• Physical → Data Link → Network → Transport → Session → Presentation → Application\n• Switch L2 · Router L3"
+    },
+    {
+      "cat": "trouble",
+      "title": "Methodology",
+      "detail": "• I Think The Puppy Is Very Delightful\n• Identify → Theory → Test → Plan → Implement → Verify → Document\n• One change at a time"
+    },
+    {
+      "cat": "trouble",
+      "title": "APIPA",
+      "detail": "• 169.254 means I'm alone\n• DHCP did not answer\n• Check cable, VLAN, DHCP server"
+    },
+    {
+      "cat": "trouble",
+      "title": "Printer defects",
+      "detail": "• Streaks drum · smear fuser · duplex jam duplexer\n• Toner rubs off → fuser\n• Duplex-only problem → duplexer"
+    },
+    {
+      "cat": "trouble",
+      "title": "POST beeps",
+      "detail": "• Beeps before OS = hardware talking\n• No video → listen or use POST card\n• Burning smell → power off first"
+    },
+    {
+      "cat": "cloud",
+      "title": "IaaS PaaS SaaS",
+      "detail": "• IaaS rent machines · PaaS deploy app · SaaS just log in\n• Pizza: toppings vs delivered pie\n• Know who manages what"
+    },
+    {
+      "cat": "cloud",
+      "title": "Type 1 vs 2",
+      "detail": "• Type 1 touches the floor (bare metal)\n• Type 2 rides on an OS\n• ESXi/Hyper-V vs Workstation/VirtualBox"
+    },
+    {
+      "cat": "ports",
+      "title": "Port song",
+      "detail": "• 22 · 53 · 67/68 · 80/443 · 445 · 3389\n• SSH DNS DHCP Web SMB RDP\n• Sing until automatic"
+    }
+  ],
+  "portsCards": [
+    {
+      "title": "20 / 21",
+      "detail": "• FTP data (20) and control (21)\n• Unencrypted file transfer\n• Prefer SFTP/SSH when possible"
+    },
+    {
+      "title": "22",
+      "detail": "• SSH — secure remote shell\n• Encrypted management + file transfer\n• Prefer over Telnet"
+    },
+    {
+      "title": "23",
+      "detail": "• Telnet — remote terminal\n• Unencrypted (avoid on open networks)\n• Legacy only"
+    },
+    {
+      "title": "25",
+      "detail": "• SMTP — send email between servers\n• Often filtered on residential ISPs\n• Submission often uses 587"
+    },
+    {
+      "title": "53",
+      "detail": "• DNS — name resolution\n• UDP and TCP\n• IPs work, names fail → DNS"
+    },
+    {
+      "title": "67 / 68",
+      "detail": "• DHCP — server 67, client 68\n• Automatic IP configuration\n• Failure → APIPA 169.254.x.x"
+    },
+    {
+      "title": "80",
+      "detail": "• HTTP — unencrypted web\n• Cleartext traffic\n• Prefer HTTPS 443"
+    },
+    {
+      "title": "110",
+      "detail": "• POP3 — download email to client\n• Often removes mail from server\n• Legacy in many orgs"
+    },
+    {
+      "title": "143",
+      "detail": "• IMAP — email stays on server\n• Multi-device friendly\n• Common for modern mail"
+    },
+    {
+      "title": "389",
+      "detail": "• LDAP — directory queries\n• Auth and directory lookups\n• LDAPS uses 636"
+    },
+    {
+      "title": "443",
+      "detail": "• HTTPS — encrypted web (TLS)\n• Default for secure sites\n• Memorize this one cold"
+    },
+    {
+      "title": "445",
+      "detail": "• SMB / CIFS — Windows file sharing\n• Printer sharing too\n• Do not expose to the open internet"
+    },
+    {
+      "title": "3389",
+      "detail": "• RDP — Remote Desktop\n• Windows remote GUI\n• Lock down with strong auth / VPN"
+    },
+    {
+      "title": "137–139",
+      "detail": "• NetBIOS / NetBT\n• Legacy Windows name services\n• Still seen on some LANs"
+    }
+  ],
+  "pbqLaser": [
+    "Processing",
+    "Charging",
+    "Exposing",
+    "Developing",
+    "Transferring",
+    "Fusing",
+    "Cleaning"
+  ],
+  "pbqTools": [
+    {
+      "s": "Need to attach an RJ-45 to a Cat6 patch cable",
+      "a": "Crimper"
+    },
+    {
+      "s": "Trace one cable through a messy wall bundle",
+      "a": "Toner probe"
+    },
+    {
+      "s": "Seat wires into a patch panel IDC block",
+      "a": "Punchdown tool"
+    },
+    {
+      "s": "Verify wire map and find a short",
+      "a": "Cable tester"
+    },
+    {
+      "s": "Test whether a switch port still links",
+      "a": "Loopback plug"
+    },
+    {
+      "s": "Measure +12V on a PSU yellow wire",
+      "a": "Multimeter"
+    },
+    {
+      "s": "Find a cleaner 2.4 GHz channel",
+      "a": "Wi-Fi analyzer"
+    },
+    {
+      "s": "No video/beeps — need POST checkpoint codes",
+      "a": "POST card"
+    }
+  ],
+  "pbqT568B": [
+    "White/Orange",
+    "Orange",
+    "White/Green",
+    "Blue",
+    "White/Blue",
+    "Green",
+    "White/Brown",
+    "Brown"
+  ],
+  "pbqParts": [
+    {
+      "s": "Build a Ryzen 7 7700 system. Which socket?",
+      "opts": [
+        "AM5",
+        "AM4",
+        "LGA 1700",
+        "LGA 1200"
+      ],
+      "a": 0
+    },
+    {
+      "s": "GPU needs one 8-pin PCIe power. Approx extra wattage?",
+      "opts": [
+        "75W",
+        "150W",
+        "300W",
+        "25W"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Customer wants 10 Gbps to 100 m on copper. Choose:",
+      "opts": [
+        "Cat5e",
+        "Cat6",
+        "Cat6a",
+        "Cat3"
+      ],
+      "a": 2
+    },
+    {
+      "s": "DDR5 won't seat in the board. Likely reason?",
+      "opts": [
+        "Wrong generation notch",
+        "XMP off",
+        "Single stick",
+        "Dust"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Need redundant disks, capacity of one drive:",
+      "opts": [
+        "RAID 0",
+        "RAID 1",
+        "RAID 5",
+        "JBOD"
+      ],
+      "a": 1
+    }
+  ]
+}

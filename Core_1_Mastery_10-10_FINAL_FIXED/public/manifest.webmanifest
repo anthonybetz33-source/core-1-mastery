@@ -1,0 +1,10 @@
+{
+  "name": "Core 1 Mastery",
+  "short_name": "Core 1 Mastery",
+  "start_url": "/core-1-mastery/",
+  "scope": "/core-1-mastery/",
+  "display": "standalone",
+  "background_color": "#0a0c0e",
+  "theme_color": "#0a0c0e",
+  "icons": [{"src":"/core-1-mastery/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
