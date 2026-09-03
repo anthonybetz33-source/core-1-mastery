@@ -13,36 +13,24 @@ import { StrategyView } from "@/views/StrategyView";
 import { StudyView } from "@/views/StudyView";
 import { TopicsView } from "@/views/TopicsView";
 import { TeachMeView } from "@/views/TeachMeView";
+import { ToolsLabView } from "@/views/ToolsLabView";
 
 export function PanelSwitch({ panel }: { panel: PanelId }) {
   switch (panel) {
-    case "home":
-      return <HomeView />;
-    case "quiz":
-      return <QuizPanel />;
-    case "teach":
-      return <TeachMeView />;
-    case "exam":
-      return <ExamView />;
-    case "flash":
-      return <FlashView />;
-    case "glossary":
-      return <GlossaryView />;
-    case "identify":
-      return <IdentifyView />;
-    case "match":
-      return <MatchView />;
-    case "pbq":
-      return <PbqView />;
-    case "mastery":
-      return <MasteryView />;
-    case "review":
-      return <ReviewView />;
-    case "strategy":
-      return <StrategyView />;
-    case "topics":
-      return <TopicsView />;
-    default:
-      return <StudyView panel={panel} />;
+    case "home": return <HomeView />;
+    case "quiz": return <QuizPanel />;
+    case "teach": return <TeachMeView />;
+    case "exam": return <ExamView />;
+    case "flash": return <FlashView />;
+    case "glossary": return <GlossaryView />;
+    case "identify": return <IdentifyView />;
+    case "match": return <MatchView />;
+    case "pbq": return <PbqView />;
+    case "mastery": return <MasteryView />;
+    case "review": return <ReviewView />;
+    case "strategy": return <StrategyView />;
+    case "topics": return <TopicsView />;
+    case "tools": return <ToolsLabView />;
+    default: return <StudyView panel={panel} />;
   }
 }
