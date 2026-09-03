@@ -48,13 +48,9 @@ export function MesserCourseView() {
 
   const watchedCount = Object.values(watched).filter(Boolean).length;
   const progress = Math.round((watchedCount / 63) * 100);
-
   const courseUrl = "https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/220-1201-training-course/";
   const playlistUrl = `https://www.youtube.com/playlist?list=${PLAYLIST_ID}`;
-
   const indexRows = useMemo(() => anchors, []);
-
-  const reset = () => setWatched({});
 
   return (
     <main className="mx-auto w-full max-w-6xl px-4 pb-24 pt-4 sm:px-6">
@@ -76,7 +72,6 @@ export function MesserCourseView() {
               <Stat value={`${progress}%`} label="tracked" />
             </div>
           </div>
-
           <div className="mt-6">
             <div className="mb-2 flex items-center justify-between text-xs font-semibold text-slate-400">
               <span>Course progress</span>
@@ -92,11 +87,25 @@ export function MesserCourseView() {
           <div className="aspect-video overflow-hidden rounded-2xl border border-white/10 bg-black shadow-xl">
             <iframe
               className="h-full w-full"
-              src={`https://www.youtube-nocookie.com/embed/videoseries?list=${PLAYLIST_ID}&rel=0&modestbranding=1`}
+              src={`https://www.youtube.com/embed?listType=playlist&list=${PLAYLIST_ID}&rel=0&modestbranding=1`}
               title="Professor Messer A+ 220-1201 Core 1 video playlist"
+              loading="lazy"
+              referrerPolicy="strict-origin-when-cross-origin"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen
             />
+          </div>
+
+          <div className="mt-4 rounded-2xl border border-white/10 bg-white/[.03] p-4">
+            <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+              <div>
+                <p className="text-sm font-bold text-white">Player not loading?</p>
+                <p className="mt-1 text-xs leading-5 text-slate-500">Some browsers, extensions, or network filters block embedded YouTube. The official playlist is always one tap away.</p>
+              </div>
+              <a href={playlistUrl} target="_blank" rel="noreferrer" className="inline-flex shrink-0 items-center justify-center gap-2 rounded-xl border border-white/10 bg-white px-4 py-3 text-xs font-black text-slate-950 transition hover:bg-slate-200">
+                <ExternalLink className="h-4 w-4" /> Open playlist
+              </a>
+            </div>
           </div>
 
           <div className="mt-4 grid gap-3 sm:grid-cols-2">
@@ -135,7 +144,7 @@ export function MesserCourseView() {
               </div>
             ))}
           </div>
-          <p className="mt-4 text-xs leading-5 text-slate-500">The player is the playlist itself, so the complete 63-video course remains synchronized with Professor Messer’s current playlist rather than storing or copying the videos into this app.</p>
+          <p className="mt-4 text-xs leading-5 text-slate-500">The player uses the official playlist, so Core 1 Mastery does not copy or rehost Professor Messer's videos.</p>
         </div>
 
         <div className="rounded-3xl border border-white/10 bg-slate-950/80 p-4 sm:p-5">
@@ -144,7 +153,7 @@ export function MesserCourseView() {
               <p className="text-xs font-bold uppercase tracking-widest text-slate-500">Study loop</p>
               <h2 className="mt-1 text-xl font-black text-white">Watch → Drill</h2>
             </div>
-            <button onClick={reset} title="Reset course progress" className="rounded-xl border border-white/10 bg-white/5 p-2 text-slate-400 hover:bg-white/10 hover:text-white">
+            <button onClick={() => setWatched({})} title="Reset course progress" className="rounded-xl border border-white/10 bg-white/5 p-2 text-slate-400 hover:bg-white/10 hover:text-white">
               <RotateCcw className="h-4 w-4" />
             </button>
           </div>
@@ -166,7 +175,7 @@ export function MesserCourseView() {
               );
             })}
           </div>
-          <p className="mt-4 text-xs leading-5 text-slate-500">Progress is stored locally on this device. The checkmarks are study checkpoints; YouTube playback position is handled by YouTube.</p>
+          <p className="mt-4 text-xs leading-5 text-slate-500">Progress is stored locally on this device. YouTube controls playback position.</p>
         </div>
       </section>
     </main>
