@@ -6,6 +6,7 @@ import { HomeView } from "@/views/HomeView";
 import { IdentifyView } from "@/views/IdentifyView";
 import { MasteryView } from "@/views/MasteryView";
 import { MatchView } from "@/views/MatchView";
+import { MesserCourseView } from "@/views/MesserCourseView";
 import { PbqView } from "@/views/PbqView";
 import { QuizPanel } from "@/views/QuizPanel";
 import { ReviewView } from "@/views/ReviewView";
@@ -31,6 +32,7 @@ export function PanelSwitch({ panel }: { panel: PanelId }) {
     case "strategy": return <StrategyView />;
     case "topics": return <TopicsView />;
     case "tools": return <ToolsLabView />;
+    case "course": return <MesserCourseView />;
     default: return <StudyView panel={panel} />;
   }
 }
