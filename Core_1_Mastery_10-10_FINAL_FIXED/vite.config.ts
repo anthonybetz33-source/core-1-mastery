@@ -10,12 +10,11 @@ export default defineConfig({
     tailwindcss(),
     tanstackStart({
       srcDirectory: ".",
-      prerender: {
+      spa: {
         enabled: true,
-        autoSubfolderIndex: true,
-        autoStaticPathsDiscovery: true,
-        crawlLinks: true,
-        failOnError: true,
+        prerender: {
+          crawlLinks: true,
+        },
       },
     }),
     viteReact(),
